@@ -1,7 +1,7 @@
 var request = require('request');
 var moment = require('moment');
 var ics = require('./ics.js');
-/*
+
 request.post(
   ' http://www.stavanger-bluesclub.no/apps/appBuilder/1/viewer/GetAppPartData',
   {json: {"applicationInstanceId":"13ed2460-abc7-0ffa-a214-15d78fa2259e","appPartIds":["apppartibne59xm12"],"itemIds":[]}},
@@ -9,16 +9,15 @@ request.post(
 	  if (error) {
 	    console.log(error);
 	  } else if (response.statusCode == 200) {
-      console.log(JSON.stringify(body));
+      console.log(ics(parseBlues((body))));
     } else {
 	  console.log(response.statusCode);
 	}
 });
-*/
 
-var testdata = require('./testdata.json');
-
-console.log(ics(parseBlues(testdata)));
+// var testdata = require('./testdata.json');
+//console.log(parseBlues(testdata));
+//console.log(ics(parseBlues(testdata)));
 
 function parseBlues(data) {
 	return data.payload.items.map(mapConcert);
@@ -27,8 +26,9 @@ function parseBlues(data) {
 function mapConcert(concert) {
 	var start = parseDate(concert.ibnf19h1);
 	return {
-		uuid: 'stav-blues-' + concert._iid,
+		uid: 'stav-blues-' + concert._iid,
 		summary: parseTitle(concert.title),
+		description: concert["wxRchTxt_sTxt4-ut6"].text.replace(/\r?\n|\r/g,''),
 		start: start.toDate(),
 		end: start.add(3, 'hours').toDate(),
 		location: 'Dickens, Stavanger',

@@ -1,129 +1,161 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Thomas Haukland//ics.js v1.0//EN
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
-UID:undefined
-DTSTART:20171219T83000
+UID:stav-blues-izpcqc0c22
+DTSTART:20171219T193000Z
 ORGANIZER:Stavanger Bluesklubb
-DTEND:20171219T113000
+DTEND:20171219T223000Z
 SUMMARY:The Sensational Bluesband 19.12.17
+DESCRIPTION:<hatul class="font_8">The Sensational Blues Band er en sammensetning av flere av distriktets beste bluesmusikere. De har spilt i så mange år og i så mange band at de trygt kan kalles veteraner innen genren.Av band kan nevnes: Bernad Jenkins, Hard Luck Blues Band, Rattlesnakin' Daddies, Veslefrikk, Zydeco Supply, Tideman's Blue og en rekke andre kjente og kjære. De spiller alt fra neddempet slow-blues til storband-aktig show-blues som får godfoten til å dra deg med utpå golvet for en svingom. Den samlede rutinen i dette bandet borger for spilleglede i alle ledd og et uttrykk fra scenen som publikum trives med. Alle som har hørt denne gjengen - enten sammen eller hver for seg - vet at de ikke blir skuffet!<br><br>&nbsp;</hatul>
 URL:http://www.stavanger-bluesclub.no/events-2/izpcqc0c22
 LOCATION:Dickens, Stavanger
 END:VEVENT
 BEGIN:VEVENT
-UID:undefined
-DTSTART:20171017T83000
+UID:stav-blues-j41as3ml96
+DTSTART:20171017T183000Z
 ORGANIZER:Stavanger Bluesklubb
-DTEND:20171017T113000
+DTEND:20171017T213000Z
 SUMMARY:Jam session
+DESCRIPTION:<p style="font-size: 15px;" class="font_9"><span style="font-size:15px;"><span style="font-family:patrick hand,cursive;">Så var det igjen klar for en av våre populære jamsessions.</span></span></p><p style="font-size: 15px;" class="font_9"><span style="font-family:patrick hand,cursive;"><span style="font-size: 15px;">I dag tar Arne igjen ansvar for at alle våre bluesvenner får mulighet til å vise hva de kan. Forhåpentligvis får vi også stifte bekjentskap med nye spennende artister.</span></span></p><p style="font-size: 15px;" class="font_9"><span style="font-family:patrick hand,cursive;"><span style="font-size: 15px;">De som vil entre scenen denne kvelden, tar gjerne ta med seg eget instrument, alt fra sangstemme, gitar, blåseinstrument, fløyte, munnspill, munnharpe, rytme- og rasleinstrumenter, bass og andre ting. Piano er på plass og klar til bruk.</span></span></p><p style="font-size: 15px;" class="font_9"><span style="font-family:patrick hand,cursive;"><span style="font-size: 15px;">Og kveldens jamvert er selvfølgelig &nbsp;Arne Kolstad som på sitt sedvanlige vis har full kontroll i rekkene.</span></span></p>
 URL:http://www.stavanger-bluesclub.no/events-2/j41as3ml96
 LOCATION:Dickens, Stavanger
 END:VEVENT
 BEGIN:VEVENT
-UID:undefined
-DTSTART:20171031T83000
+UID:stav-blues-izpd3git51
+DTSTART:20171031T193000Z
 ORGANIZER:Stavanger Bluesklubb
-DTEND:20171031T113000
+DTEND:20171031T223000Z
 SUMMARY:Anke Angel
+DESCRIPTION:<hatul class="font_8">Anke Angel ble født 3. oktober 1961 i den nederlandske byen Zeist. Hennes far var (og fremdeles) en stor fan av Boogie Woogie, og så satt hun allerede som en liten jente på fanget da han nådde nøklene. Sammen lyttet de til poster av Albert Ammons, Pete Johnson og Meade Lux Lewis. Hvis du kan tro på hennes far, spilte Anke sin første enkle blues på piano i en alder av tre. Klokka 6 begynte hun klassiske piano leksjoner. Siden bare klassisk piano ble undervist i Zeist, ble de første Boogie Woogie-stykkene oppnådd ved å lytte til poster. I løpet av denne tiden tok hun sine første selvsammensetninger med sin fars utstyr. Disse opptakene var imidlertid ikke ment for utenlandske ører. Hun fullførte sin musikalske utdanning i de følgende årene med sangundervisning.<br><br>På slutten av sin akademiske karriere flyttet Anke Angel til Universitetet i Utrecht for en rettspraksis. Hennes aktivitet som advokat med et spesielt område av underholdningsloven forlot henne bare lite tid til å spille piano i løpet av denne tiden. Tross alt fortsatte hun å komponere, blant annet for den ene eller den andre modeschau. The Boogie Woogie spillet hun opererte bare privat. Da det var tillatt, gikk hun og hennes far til boogie og jazz konserter. På en av disse konsertene møtte hun Little Willie Littlefield. De var vennlige og da Little Willie hørte Anke Boogie Woogie lek, oppfordret han dem til å tilegne seg mer til pianoforteen. Anke innså at hun som en Boogie Woogie-pianist kunne bringe flere mennesker - og ikke minst seg selv - glede enn med loven.<br><br>Hun tok klasser på Rob Agerbeek for å lære mer om jazz og utviklet sin karakteristiske, meget kraftige stil. "Hun er en kvinne, men hun spiller som en mann ..." er et kompliment, som Anke alltid lytter til. Siden hennes første offentlige utseende på en jazzfestival har hennes karriere begynt. I hele Europa er hun nå en ettertraktet kvinne, Rolf Schubert har signert det og nylig utgitt sin første CD "Boogious" på Oldie Blues Label (Munich Records). Anke Angel utfører solo så vel som trommer, bass, gitar eller saxofoner, og tilbyr ren boogie woogie og blues, noen ganger blandet med påvirkninger fra andre jazzstiler.</hatul><hatul class="font_8">Anke Angel, Piano og vokal, boogie woogie, blues, jazz. med seg har hun Gunnar Engen, bass og Stein Inge Brekkhus, trommer.</hatul>
 URL:http://www.stavanger-bluesclub.no/events-2/izpd3git51
 LOCATION:Dickens, Stavanger
 END:VEVENT
 BEGIN:VEVENT
-UID:undefined
-DTSTART:20171205T83000
+UID:stav-blues-izpctw9825
+DTSTART:20171205T193000Z
 ORGANIZER:Stavanger Bluesklubb
-DTEND:20171205T113000
+DTEND:20171205T223000Z
 SUMMARY:Julejam
+DESCRIPTION:<hatul class="font_8">I dag tar vi julaften på forskudd, og ser fram til en kveld hvor mange spennende pakker ligger klar under treet. Her blir det en herlig blanding av harde og myke bluespakker, for alle våre bluesvenner.<br>De som vil entre scenen denne kvelden, kan ta gjerne ta med seg eget instrument, alt fra sangstemme, gitar, blåseinstrument, fløyte, munnspill, munnharpe, rytme- og rasleinstrumenter, bass og andre ting. Piano er på plass og klar til bruk.<br>Kveldens jamvert er som vanlig Arne Kolstad<br>Bli med på en skikkelig førjulsblues, så får du bli med å pakke opp flotte musikalske overraskelser.<br><br>&nbsp;</hatul>
 URL:http://www.stavanger-bluesclub.no/events-2/izpctw9825
 LOCATION:Dickens, Stavanger
 END:VEVENT
 BEGIN:VEVENT
-UID:undefined
-DTSTART:20171128T83000
+UID:stav-blues-j41axhvk98
+DTSTART:20171128T193000Z
 ORGANIZER:Stavanger Bluesklubb
-DTEND:20171128T113000
+DTEND:20171128T223000Z
 SUMMARY:Blue Chordettes
+DESCRIPTION:<hatul class="font_8">I kveld er det klart for regionens eneste bluesband med egen juleplate...<br><br>Da bandet ble startet var ideen å framføre ukjente skatter fra etterkrigstidens svarte bluesartister, og å arrangere swing og jumpblues for et gitarband.<br><br>Gjennom konserter på klubber og festivaler i over ti år har bandet utviklet stilen preget av tett samspill mellom de to gitaristene, toppet av Morten Danielsens soulstemme. Morten står ikke tilbake for noen vokalister i landet innen sjangeren.<br><br>De siste åra har bandet brukt mye tid på å skrive sanget sjøl, og eget materiale utgjør nå en stor del av konsertene. Men fremdeles er det kjekt å framføre sanger av Otis Rush, Magic Sam, Ray Charles, Slim Harpo, Freddy King, Willie Dixon osv.<br><br>https://www.facebook.com/The-Blue-Chordettes-173423852404/timeline<br><br>https://youtu.be/y6LAiETc048</hatul>
 URL:http://www.stavanger-bluesclub.no/events-2/j41axhvk98
 LOCATION:Dickens, Stavanger
 END:VEVENT
 BEGIN:VEVENT
-UID:undefined
-DTSTART:20171121T83000
+UID:stav-blues-ibnge3s4661
+DTSTART:20171121T193000Z
 ORGANIZER:Stavanger Bluesklubb
-DTEND:20171121T113000
+DTEND:20171121T223000Z
 SUMMARY:The Untamed Wolf Pack
+DESCRIPTION:<p class="font_9">The Untamed Wolf Pack is a bluesband from the west coast of Norway. Each member has it`s own signature background in music allthough blues is what binds the band.</p><p class="font_9"><br>Hopefully our contribution will play a part in keeping this great musical tradition alive. Some even say it`s the greatest music ever made.<br>The Untamed Wolf Pack considers live-music to be the best form in which music should be listened to. Allthough the greats up through the ages are well preserved and recorded for future generations to listen to, we feel homage is best paid by playing their music live. So take the time to experience music live and since music speaks it`s own language we are at the end of this bio. A big thanks to all musicians and musiclovers out there from The Untamed Wolf Pack and: Be Good!</p><p class="font_9">Dustin Wolves - Guitar, Vocal<br>CatWolf - Bass<br>Mr.T - Harmonica, vocal<br>Mr. SouthBay - Leadgitar<br>Tony T - Drums</p>
 URL:http://www.stavanger-bluesclub.no/events-2/ibnge3s4661
 LOCATION:Dickens, Stavanger
 END:VEVENT
 BEGIN:VEVENT
-UID:undefined
-DTSTART:20171226T83000
+UID:stav-blues-izpcrm2123
+DTSTART:20171226T193000Z
 ORGANIZER:Stavanger Bluesklubb
-DTEND:20171226T113000
+DTEND:20171226T223000Z
 SUMMARY:Bernad Jenkins
+DESCRIPTION:<hatul class="font_8">De første årene spilte bandet musikk i grenselandet mellom pop og blues. Blant låtene på repertoaret var Dylan-låten "If You Gotta Go, Go Now" i Mannfred Mann-arrangement, "Black Magic Woman og en del stoff av Eric Clapton.<br>Da bandet skiftet besetning i 1970/71 og blant annet fikk inn blåsere, begynte de å spille materiale av bandet Chicago. I denne perioden spilte de låtene fra alle de fem første albumene til Chicago. De kopierte den kompliserte musikken ned til minste detalj. Da Chicago kom til Norge for å holde konsert, var musikerne i Bernad Jenkins selvsagt på plass. Men bandet ble avslørt: De kompliserte partiene fra plateversjonene ble kuttet ut på konserten. Etter å ha skrevet en lynende sint artikkel til VG om saken, løsnet Bernard Jenkins sitt musikalske bånd til Chicago. I 1974/75 beveget de seg i retning av en jazzpoppet stil, og spilte blant annet musikk av Steely Dan.<br>&nbsp;</hatul>
 URL:http://www.stavanger-bluesclub.no/events-2/izpcrm2123
 LOCATION:Dickens, Stavanger
 END:VEVENT
 BEGIN:VEVENT
-UID:undefined
-DTSTART:20171212T83000
+UID:stav-blues-izpcshjg24
+DTSTART:20171212T193000Z
 ORGANIZER:Stavanger Bluesklubb
-DTEND:20171212T113000
+DTEND:20171212T223000Z
 SUMMARY:Reidar Larsen
+DESCRIPTION:<hatul class="font_8">Som sønn av en pianobygger/-tekniker/-stemmer var det vel nærmest naturlig å ta pianotimer fra ca. 7 års alderen.<br>Dette la fundamentet for å bli med på banddannelse på ungdomsskolen omkring 1968, og første "offisielle" spillejobb i Stavanger 17. mai 1970. På denne tiden ble også en særlig interesse for bluestradisjonen vekket, først gjennom engelske bluesbaserte band, og etterhvert gjennom anskaffelsen av "svarte amerikanske" plateutgivelser. Deretter fulgte diverse band innen både pop, rock og dansemusikk, og perioder som både halv- og helprofesjonell musiker. For eksempel ble året 1974 preget av første plateinnspilling med pop- og dansebandet Staccato, samt medvirkning til oppstarten av Stavangerensemblet.<br>I dag snakker vi om 12 egne albumutgivelser, hvorav to registrerte gullplater, medvirkning på en rekke andre utgivelser og ca. 100 konserter årlig gjennom mange år. Og kanskje har det ikke vært mer oppmerksomhet og positiv respons enn akkurat nå...<br>{youtube}zmfV8RZ0rJw{/youtube}<br><br>&nbsp;</hatul>
 URL:http://www.stavanger-bluesclub.no/events-2/izpcshjg24
 LOCATION:Dickens, Stavanger
 END:VEVENT
 BEGIN:VEVENT
-UID:undefined
-DTSTART:20170926T83000
+UID:stav-blues-j41ao9w795
+DTSTART:20170926T183000Z
 ORGANIZER:Stavanger Bluesklubb
-DTEND:20170926T113000
+DTEND:20170926T213000Z
 SUMMARY:Kai Strauss & The electric Blues all stars
+DESCRIPTION:<p class="font_9">Kai Strauss is a well known name among European blues lovers and „… is truly amazing, as authentic as any Texas or Chicago axe slinger around.“, Gary Reinhard, WITR Radio/Bad Dog Blues, Rochester New York.<br><br>Guitarist/singer Kai Strauss grew up in a small working class town in northern Germany. He discovered his passion for the music of Albert King, Buddy Guy, Jimmie Vaughan and many others as a teenager in the 1980s through his parents’ record collection. Soon, countless nights at the local blues jams followed, and from the 1990s on you could find him on stages all over Europe alongside Texas harmonica player Memo Gonzalez. After 15 years on the road with Gonzalez, Strauss started fronting his own group The Electric Blues All-Stars.<br><br>Kai Strauss now presents his third album “Getting Personal” on the Dutch label Continental Blue Heaven/CRS, and continues to follow his own course with the more contemporary sound that he presented on his award-winning sophomore album “I Go By Feel”. Strauss, who enjoys an excellent reputation for his spicy Texas Blues guitar licks, adds fresh Chicago &amp;amp;amp;amp; Memphis flavors to his musical gumbo on this new studio effort. “Getting Personal” features lots of tasteful guitar playing – from the dirty funkiness of “The Blues Is Handmade” (written by Alabama Jazz Hall of Fame Inductee Tommie Harris) to the expressive soulfulness of “Blues for Anne”, an intense 9 minutes of moaning guitar dedicated to the memory of Strauss’ mother. You will also encounter honest, confident vocals, original songwriting, and an outstanding groove that is hard to find this side of the big pond. Together with fabulous guest appearances by US saxophone export No. 1 Sax Gordon, the wonderfully strong yet sensitive voice of Big Daddy Wilson from North Carolina, and Houston guitar ace Tony Vega, this package of 11 brand new titles represents a new peak in Kai Strauss’ career, and should be the next step up for this serious and already highly respected artist in the international blues &amp;amp;amp;amp; roots world.<br><br>Kai Strauss is a passionate live performer with “…exceptional tone and phrasing.” Blues Revue, USA and honed his chops over the course of more than 20 years of playing clubs and festivals. The sympathetic band leader tours all year with his international group Kai Strauss &amp;amp;amp;amp; The Electric Blues All-Stars.</p><p class="font_9">https://www.youtube.com/watch?v=Q9Ty58hn9zs<br>http://www.electricbluesallstars.com<br>https://www.youtube.com/watch?v=mAhyTyaWHzY<br>www.facebook.com/kaistraussblues</p>
 URL:http://www.stavanger-bluesclub.no/events-2/j41ao9w795
 LOCATION:Dickens, Stavanger
 END:VEVENT
 BEGIN:VEVENT
-UID:undefined
-DTSTART:20171107T83000
+UID:stav-blues-j5w6xljx23
+DTSTART:20171107T193000Z
 ORGANIZER:Stavanger Bluesklubb
-DTEND:20171107T113000
+DTEND:20171107T223000Z
 SUMMARY:Me and the Devil
+DESCRIPTION:<hatul class="font_8">Michael Horton prosjekt</hatul>
 URL:http://www.stavanger-bluesclub.no/events-2/j5w6xljx23
 LOCATION:Dickens, Stavanger
 END:VEVENT
 BEGIN:VEVENT
-UID:undefined
-DTSTART:20171024T73000
+UID:stav-blues-in1pvg7a24
+DTSTART:20171024T173000Z
 ORGANIZER:Stavanger Bluesklubb
-DTEND:20171024T103000
+DTEND:20171024T203000Z
 SUMMARY:Tiny Thor & The Cool Groove
+DESCRIPTION:<hatul class="font_8">Tiny Thor &amp; The Cool Groove er det muligens litt vrient å sette i en bestemt musikalsk bås – men det finnes uten tvil sterke elementer av funky blues som med stor sjangse bidrar til at du føler sterk trang til å bevege deg til rytmene. Dog noen vil nok påstå å finne elementer av slepen soul, rock og rhythm &amp; blues. Originale komposisjoner signert vokalist og gitarist Thor Oliversen blandet med coverlåter av artister som ligger genremessig nær – f.eks. John Mayer, Oli Brown, Robben Ford, Scott McKeon og Matt Schofield. Hør gjerne på Spotifylisten vår lenger nede til venstre her eller Sneak Peak fra øvingslokalet. Thor Oliversen – vokal/gitar, Egil Myhre – trommer, Halvard Josefsen – bass, Jostein F. Johansen – orgel.</hatul><hatul class="font_8">www.tinythor.com</hatul><hatul class="font_8">https://www.facebook.com/tinythorandthecoolgroove/?fref=ts</hatul>
 URL:http://www.stavanger-bluesclub.no/events-2/in1pvg7a24
 LOCATION:Dickens, Stavanger
 END:VEVENT
 BEGIN:VEVENT
-UID:undefined
-DTSTART:20171003T83000
+UID:stav-blues-j41auro697
+DTSTART:20171003T183000Z
 ORGANIZER:Stavanger Bluesklubb
-DTEND:20171003T113000
+DTEND:20171003T213000Z
 SUMMARY:Robert Taylor Blues Band
+DESCRIPTION:<p class="font_9">Robert Taylor Blues Band kombinerer klassiske blues elementer med rå N'Orleans funk. Med den tidligere frontfiguren i "Red Hot and Blues", Robert Taylor på vokal og munnspill, tar dette bluesen i en ny retning&nbsp;</p><p class="font_9">Besetning:<br>Robert Taylor - Lead vocal and harmonica, Ådne Hauge - bass , Roald Holmstrom - Gitar, Roy Kenneth Økland - Gitar, Arne Haugen - Drums, Rune Rødne - Keyboards</p><p class="font_9">www.roberttaylorblues.com/</p><p class="font_9">&nbsp;</p>
 URL:http://www.stavanger-bluesclub.no/events-2/j41auro697
 LOCATION:Dickens, Stavanger
 END:VEVENT
 BEGIN:VEVENT
-UID:undefined
-DTSTART:20171114T83000
+UID:stav-blues-izpd21xy50
+DTSTART:20171114T193000Z
 ORGANIZER:Stavanger Bluesklubb
-DTEND:20171114T113000
+DTEND:20171114T223000Z
 SUMMARY:Jolly Jumper
+DESCRIPTION:<hatul class="font_8">Add Description here</hatul>
 URL:http://www.stavanger-bluesclub.no/events-2/izpd21xy50
 LOCATION:Dickens, Stavanger
 END:VEVENT
 BEGIN:VEVENT
-UID:undefined
-DTSTART:20171010T83000
+UID:stav-blues-izpd172949
+DTSTART:20171010T183000Z
 ORGANIZER:Stavanger Bluesklubb
-DTEND:20171010T113000
+DTEND:20171010T213000Z
 SUMMARY:Red House
+DESCRIPTION:<hatul class="font_8">Red House er et Madrid band og et resultat av lang erfaring og vennskap mellom Jeff Espinoza og Francisco Simón fra henholdsvis Calefornia og Madrid. Siden da har deres arbeid sammen utviklet et av de beste bluesbandene i Europa.</hatul><hatul class="font_8">Red House er synonymt med styrke og eleganse på sine live forestillinger, show med sin utrolige energi og god smak og snu hver konsert til noe unikt og uforglemmelig .Red House har utgitt en mengde plater, den siste i 2015&nbsp; "Red House &amp; amp; &nbsp; som er&nbsp; full av internasjonale og nasjonale figurer som Steve Cropper, Lou Marini, ( Begge Blues Brothers) Gene Taylor, Mike Vernon, Bobby Alexander, blant andre.&nbsp; Dette bandet bør en ikke gå glipp av. Hver gang saksofonist Lou Marini ( Blues Brothers og James Taylor) er i Madrid hvor kona hans har familie, spiller han med Red House. Red house har ellers spilt med det som nesten kan krype å gå av artister som har gjestet Madrid.<br><br>Gruppen består for tiden av de to grunnleggerne og nøkkelmedlemmene, Jeff Espinoza (vokal og gitar) og Francisco Simon (gitar og showmann), Med seg har de Gunnar Engen, bass og Espen Noreger, trommer.&nbsp;</hatul><hatul class="font_8">&nbsp;</hatul><hatul class="font_8">&nbsp;</hatul>
 URL:http://www.stavanger-bluesclub.no/events-2/izpd172949
 LOCATION:Dickens, Stavanger
 END:VEVENT
