@@ -1,5 +1,6 @@
 var request = require('request');
 var moment = require('moment');
+var ics = require('./ics.js');
 /*
 request.post(
   ' http://www.stavanger-bluesclub.no/apps/appBuilder/1/viewer/GetAppPartData',
@@ -17,20 +18,22 @@ request.post(
 
 var testdata = require('./testdata.json');
 
-console.log(parseBlues(testdata));
+console.log(ics(parseBlues(testdata)));
 
 function parseBlues(data) {
 	return data.payload.items.map(mapConcert);
 }
 
 function mapConcert(concert) {
+	var start = parseDate(concert.ibnf19h1);
 	return {
-		uuid: concert._iid,
-		name: parseTitle(concert.title),
-		date: parseDate(concert.ibnf19h1),
-		place: 'Dickens, Stavanger',
+		uuid: 'stav-blues-' + concert._iid,
+		summary: parseTitle(concert.title),
+		start: start.toDate(),
+		end: start.add(3, 'hours').toDate(),
+		location: 'Dickens, Stavanger',
 		url: 'http://www.stavanger-bluesclub.no/events-2/' + concert._iid,
-	  organizer: 'Stavanger Bluesklubb'
+	  	organizer: 'Stavanger Bluesklubb'
   };
 }
 
