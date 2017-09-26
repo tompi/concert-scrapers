@@ -4,8 +4,10 @@
   "description": "Scrape concert sites in Stavanger to import them to google calendar",
   "main": "index.js",
   "dependencies": {
+    "jsdom": "^11.2.0",
     "moment": "^2.18.1",
-    "request": "^2.82.0"
+    "request": "^2.82.0",
+    "require-text": "0.0.1"
   },
   "devDependencies": {},
   "scripts": {
