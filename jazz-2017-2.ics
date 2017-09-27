@@ -1,0 +1,175 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Thomas Haukland//ics.js v1.0//EN
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:stav-jazz-2017-09-29T1800:00.000Z
+DTSTART:20170929T180000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20170929T210000Z
+SUMMARY:Rohey
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/rohey/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://www.billettportalen.no/direkte/?token=ZBixHRJxbOc1rHVe87DCjYPYCxRMi3V8i9himcKydqN528%2bEFwVyIXT1aG2Vgcz9hbk5b%2bUrXiAOF0ARt3MsgeZw%2f8NX5SCrWPN7zvFZI0ZRIkjnMVRa5dWydAvxIRLY">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2017-10-06T1800:00.000Z
+DTSTART:20171006T180000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20171006T210000Z
+SUMMARY:Svein Olav Herstad Trio
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/?post_type=artister&amp;p=1328&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://www.billettportalen.no/direkte/?token=ZBixHRJxbOcHVeHY%2bHWJBWnYhE1L6Rndjj0o%2fjRB%2f3tUNr3OiZ%2f%2fi5RD9d%2b9uEktRQWCTo7LhUs3I0bHPTLB8A2Avg4Q8CLptZ%2fP9NN1tVmbD52%2bAN1UmSdoagbRTuT%2f">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2017-10-12T1800:00.000Z
+DTSTART:20171012T180000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20171012T210000Z
+SUMMARY:Monk i 100
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/?post_type=artister&amp;p=1284&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://www.billettportalen.no/direkte/?token=ZBixHRJxbOe4jx3cP2iarHsNh%2bu2aqDcOMeUIin8CosswaF2y2DVV63pf09IdtTmD%2bsCe2imboMSz3ZM%2bG%2bOIKcakOZaPD5QsaX2EQv0atFEl7ibJlwZoSYkxADAhyTi">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2017-10-19T1800:00.000Z
+DTSTART:20171019T180000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20171019T210000Z
+SUMMARY:Batabrok med Hedvig Mollestad og Runar Gudnason
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/?post_type=artister&amp;p=1227&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://www.billettportalen.no/direkte/?token=ZBixHRJxbOdzqC4E%2bXcvUnlV%2bTEBo6NXPT6VbQf86%2bnR2RxPOs3ovAkAegzNqwbOolEtdrx2bjsdzQwk%2bRp3Z09M0qy8ICwvqGus7p%2b1R5aHDo2As%2byzTWkAemtDk9vJ">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2017-10-21T1300:00.000Z
+DTSTART:20171021T130000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20171021T160000Z
+SUMMARY:Høstjazz - lørdag
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/hostjazz/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://www.billettportalen.no/direkte/?token=ZBixHRJxbOdW%2f2rUOrnz4NGhHaDXwmUd%2bUDXRqcFlMyTs7y1g6Y8l3a9bJhVSd9VDVz8fhD9eXk74Qk2Fxs1ItjMHOi3NOHKMo0UQdYrMqbhkAG1fY8pqSYa8GgvTuZS">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Sola Strand Hotel
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2017-10-21T1600:00.000Z
+DTSTART:20171021T160000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20171021T190000Z
+SUMMARY:Høstjazz - Trio de Janeiro
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/hostjazz-trio-de-janeiro/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://www.billettportalen.no/direkte/?token=ZBixHRJxbOc%2fNFj1Oql1gcA5bEpFWkoKFtJG%2bCHOM%2f6N1eQ%2fbQ2OCHZTma7SldO1yB3grrgi5p8yO7zEJmv1gQ8EXfHRJGvlwhsyw1S2%2fs%2bpP%2fyt7QYALFkiijlzBwy7">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Sola Strand Hotel
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2017-10-22T0900:00.000Z
+DTSTART:20171022T090000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20171022T120000Z
+SUMMARY:Høstjazz - jazzbrunsj
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/hostjazz-jazzbrunsj/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                </div>                           </div>
+LOCATION:Sola Strand Hotel
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2017-10-27T1800:00.000Z
+DTSTART:20171027T180000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20171027T210000Z
+SUMMARY:Susanna &amp; the Brotherhood of Our Lady
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/susanna-the-brotherhood-of-our-lady/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://www.billettportalen.no/direkte/?token=ZBixHRJxbOdKqrL8lFgEfOFlDhwt79I0WaN8Ud66QT7Xn7mBKRSGJ7U%2b08sCLZrs7OP9XVeVP8zGRnQt7%2fj2cMn8c1Cd0KB0el1wSJnS%2bQ8mqrwgUBJV5bJbyzucoSux">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2017-11-04T1900:00.000Z
+DTSTART:20171104T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20171104T220000Z
+SUMMARY:Litterær jazzklubb med Edvard Hoem og John Pål Inderberg Trio
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/?post_type=artister&amp;p=1230&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://www.billettportalen.no/direkte/?token=ZBixHRJxbOd8kikkCTZFuzgZEivjfpHxFM2mp7KOBZLIqbI4ryVEke0C5W68XxxiTAfBjyQBUDfNfqxyTDtWrsXFwMrtRY4rQC1k9BF7C27RYU%2fBpba7sgPnSdJ9%2bo3w">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2017-11-11T1900:00.000Z
+DTSTART:20171111T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20171111T220000Z
+SUMMARY:The Ozone Project
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/?post_type=artister&amp;p=1322&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://www.billettportalen.no/direkte/?token=ZBixHRJxbOfquzbsSTtSW%2bWx%2bC3f%2fHFm1DCcHEnNAISzO8jxFM5XdrvfVNBzuou4DLToxXewcoHYsJVr3quOgijU3qPw1rs%2fHnmOkw01TLxUuDxU5IbEFeqiE7vSNzWP">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2017-11-16T1900:00.000Z
+DTSTART:20171116T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20171116T220000Z
+SUMMARY:Herbie Hancock
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/?post_type=artister&amp;p=1262&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://www.billettportalen.no/direkte/?token=ZBixHRJxbOccDMO%2fnFfW4tUJ3ugUIVW9H%2fiV6gx0Thw083nSDK6cNlM3J2uCUM3fUiz2ESJJHksmkCbCaGTkJJ3I8gZfO8nUHM9DjIVAPGRwl9kQlsr4KN6DqMluOLnS">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Stavanger Konserthus
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2017-11-18T1900:00.000Z
+DTSTART:20171118T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20171118T220000Z
+SUMMARY:JOSHUA REDMAN &amp; OLA KVERNBERG
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/joshua-redman-ola-kvernberg/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://www.billettportalen.no/direkte/?token=ZBixHRJxbOd6Wb3h%2fYtdcba36iD23ZFvGEqPqotixp%2fO8PBUEuZMW1tUCOv42tAemDA8uJPg%2f5YKRSMY%2bCCusyugkjyzfprZDrpyl533nDvJ0jKiYmu3ktqG5iyU7JYv">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2017-11-25T1800:00.000Z
+DTSTART:20171125T180000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20171125T210000Z
+SUMMARY:Blest
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/?post_type=artister&amp;p=1345&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://www.billettportalen.no/direkte/?token=ZBixHRJxbOdUx7fpr6RCb6QBpsa4f3d8%2fRMOAWC%2bD2d5UwWFGwHxvetSZ5N2ia3VpSAHE3%2brGhc9LGnsyj4yoqJuH9Mr%2faxy2N0ECWuh5BsyhfLE42kOaGN34PfcHmTN">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2017-11-30T1900:00.000Z
+DTSTART:20171130T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20171130T220000Z
+SUMMARY:Svein Tang Wa &amp; Gjøkene
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/?post_type=artister&amp;p=1348&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://www.billettportalen.no/direkte/?token=ZBixHRJxbOc0AW7fthuJLHB%2fxM6zxvH1ZL51fen4Damc7QI7DSgKq2EMhuAKiqET%2fyQkZXZbPoxOHxjYB6LcFDWz5%2bnq4VO%2bA4D1k1dyKCl8Q13kcaaU0QV6ZmbbP9N8">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2017-12-08T1900:00.000Z
+DTSTART:20171208T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20171208T220000Z
+SUMMARY:JULEKONSERT – BJERGSTED JAZZENSEMBLE &amp; EVA BJERGA HAUGEN M.FL.
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/?post_type=artister&amp;p=1380&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://www.billettportalen.no/direkte/?token=ZBixHRJxbOfaP5ErWnBshbaBgN6x7yNxgh%2bo9TNN%2b5f4%2fTv5Xwfl4jJZR7L9oq4g9%2bSq0H1M1ehgtxSC8MoIoFtPZ1xwIcBQDazsuJ%2bGTaq9vPM%2f04pzt7xtuvQVwycp">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2017-12-09T1900:00.000Z
+DTSTART:20171209T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20171209T220000Z
+SUMMARY:DAMANA
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/damana/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://www.billettportalen.no/direkte/?token=ZBixHRJxbOeHlY5mx4B3jO%2ffhhWOenjc6XenrC5tM5Ro0ZgkiG79pmNPT%2fDHETP03o54DSEPBQVsMXSPgWCqj5k6buUrG7MRekQ5TwpNpu6xNQ521kjhjU2dfvhE8Bdc">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2017-12-14T1830:00.000Z
+DTSTART:20171214T183000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20171214T213000Z
+SUMMARY:Sondre Bratland - Rosa frå Betlehem
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/?post_type=artister&amp;p=1288&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://www.billettportalen.no/direkte/?token=ZBixHRJxbOcVxVUy5LMWHfGO0KcGYN%2b3GorE39uA9BZtVOBwz2oiWo2EQAhECQo9IKEqtUMFvJ3FEghGg0LX0BMH%2bA35znpt8c%2b%2frftu7lXzT3rYeHe5rq0ThUZ4UZcU">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Stavanger Domkirke
+END:VEVENT
+END:VCALENDAR

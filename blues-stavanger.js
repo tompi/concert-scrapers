@@ -1,6 +1,6 @@
-var request = require('request');
-var moment = require('moment');
-var ics = require('./ics.js');
+const request = require('request');
+const moment = require('moment');
+const ics = require('./ics.js');
 
 request.post(
   ' http://www.stavanger-bluesclub.no/apps/appBuilder/1/viewer/GetAppPartData',
@@ -8,7 +8,7 @@ request.post(
   function (error, response, body) {
 	  if (error) {
 	    console.log(error);
-	  } else if (response.statusCode == 200) {
+	  } else if (response.statusCode === 200) {
       console.log(ics(parseBlues((body))));
     } else {
 	  console.log(response.statusCode);
@@ -24,7 +24,7 @@ function parseBlues(data) {
 }
 
 function mapConcert(concert) {
-	var start = parseDate(concert.ibnf19h1);
+	let start = parseDate(concert.ibnf19h1);
 	return {
 		uid: 'stav-blues-' + concert._iid,
 		summary: parseTitle(concert.title),
@@ -42,9 +42,9 @@ function parseTitle(title) {
 }
 
 function parseDate(dateString) {
-	var parts = dateString.toLowerCase().replace(' ', '').split('kl');
-  var datePart = parts[0];
-	var timePart = parts[1].replace(/[^0-9]/g, '').substr(0, 4);
+	let parts = dateString.toLowerCase().replace(' ', '').split('kl');
+  let datePart = parts[0];
+	let timePart = parts[1].replace(/[^0-9]/g, '').substr(0, 4);
 	return moment(datePartToIso(datePart) + 'T' + timePartToIso(timePart));
 }
 
@@ -53,9 +53,9 @@ function timePartToIso(timeString) {
 }
 
 function datePartToIso(datePartString) {
-	var parts = datePartString.split('.');
+	let parts = datePartString.split('.');
 
-	var year = parts[2];
+	let year = parts[2];
 	if (year.length === 2) year = '20' + year;
 	return year + '-' + parts[1] + '-' + parts[0];
 }

@@ -1,11 +1,11 @@
 // Takes a list of events and returns them formatted as an ics string
 // suitable for import in e.g. google calendar
 
-var moment = require('moment');
+let moment = require('moment');
 
 module.exports = function(events) {
 	
-	var output = "BEGIN:VCALENDAR\nVERSION:2.0\n";
+	let output = "BEGIN:VCALENDAR\nVERSION:2.0\n";
 	output += "PRODID:-//Thomas Haukland//ics.js v1.0//EN\n";
 	// Timezone
 	output += 
@@ -27,17 +27,17 @@ DTSTART:19701025T030000
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
-`
+`;
 
 	events.forEach(function(event) {
 		output += "BEGIN:VEVENT\n";
-		output += "UID:" + event.uid + "\n";
+		output += "UID:" + event.uid.replace(':', '').replace(' ', '') + "\n";
 		output += "DTSTART:" + getIcsDate(event.start) + "\n";
 		output += "ORGANIZER:" + event.organizer + "\n";
 		output += "DTEND:" + getIcsDate(event.end) + "\n";
 		output += "SUMMARY:" + event.summary + "\n";
 		output += "DESCRIPTION:" + event.description + "\n";
-		output += "URL:" + event.url + "\n";
+		if (event.url) output += "URL:" + event.url + "\n";
 		output += "LOCATION:" + event.location + "\n";
 		output += "END:VEVENT\n";
 	});
@@ -45,7 +45,7 @@ END:VTIMEZONE
 	output += "END:VCALENDAR";
 
 	return output;
-}
+};
 
 function getIcsDate(aDate) {
 	return moment(aDate).utc().format("YYYYMMDDTHHmmss") + "Z";
