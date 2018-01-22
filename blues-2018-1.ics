@@ -1,0 +1,232 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Thomas Haukland//ics.js v1.0//EN
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:stav-blues-j93x6r9q29
+DTSTART:20180403T183000Z
+ORGANIZER:Stavanger Bluesklubb
+DTEND:20180403T213000Z
+SUMMARY:Jam session
+DESCRIPTION:<p style="font-size: 15px;" class="font_9"><span style="font-size:15px;"><span style="font-family:patrick hand,cursive;">Så var det igjen klar for en av våre populære jamsessions.</span></span></p><p style="font-size: 15px;" class="font_9"><span style="font-family:patrick hand,cursive;"><span style="font-size: 15px;">I dag tar Arne igjen ansvar for at alle våre bluesvenner får mulighet til å vise hva de kan. Forhåpentligvis får vi også stifte bekjentskap med nye spennende artister.</span></span></p><p style="font-size: 15px;" class="font_9"><span style="font-family:patrick hand,cursive;"><span style="font-size: 15px;">De som vil entre scenen denne kvelden, tar gjerne ta med seg eget instrument, alt fra sangstemme, gitar, blåseinstrument, fløyte, munnspill, munnharpe, rytme- og rasleinstrumenter, bass og andre ting. Piano er på plass og klar til bruk.</span></span></p><p style="font-size: 15px;" class="font_9"><span style="font-family:patrick hand,cursive;"><span style="font-size: 15px;">Og kveldens jamvert er selvfølgelig &nbsp;Arne Kolstad som på sitt sedvanlige vis har full kontroll i rekkene.</span></span></p>
+URL:http://www.stavanger-bluesclub.no/events-2/j93x6r9q29
+LOCATION:Påfyll, Stavanger
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-blues-j93xny8a38
+DTSTART:20180313T193000Z
+ORGANIZER:Stavanger Bluesklubb
+DTEND:20180313T223000Z
+SUMMARY:The Juke Joints
+DESCRIPTION:<hatul class="font_8">Dutch blues-rockers and winners of the 2012 and 2016 Dutch Blues Foundation Award for Best Dutch Blues Band , The Juke Joints have been setting fire to international stages for no less than 34 (!) years. Last year alone they set stages on fire in, amongst others, Spain, Norway, Switzerland and at the Harvest Time Blues Festival in Ireland. Between all those gigs they wrote songs together for their follow-up for the 'Going to Chicago' CD they have recorded in Chicago with producer Ronnie Baker Brooks and 'guests' Eddy 'The Chief' Clearwater and Ana Popovic.</hatul><hatul class="font_8">&nbsp;</hatul><hatul class="font_8">The new CD 'Heart on Fire' (European release by Continental Records at the end of Januari 2015 ) contains 10 infectious Juke Joints originals.</hatul><hatul class="font_8">The Dr. Ross classic "Cat's Squirrel" and crowd favourite-to-be "Funny Little Valentine", penned by Australian rockabilly singer/guitarist Louis King, receive the passionate, greasy Juke Joints treatment and seamlessly fit in the coherence of the album.</hatul><hatul class="font_8">On this 9th studio album The Juke Joints have like never before succeeded in translating the steamingly hot energy of their live shows into a brilliant studio sound.</hatul><hatul class="font_8">The American Blues Underground Network has chosen the Heart on Fire CD as ‘Best European Bluesrock CD’ !</hatul><hatul class="font_8">&nbsp;</hatul><hatul class="font_8">In April 2017 the new CD ‘Crossroads’ un&amp;plugged, was released, ‘live’ recorded for the bluesprogram of BRTO Radio in Bergen op Zoom , together with the Australian gitarist Lloyd Spiegel as ‘special guest’.</hatul><hatul class="font_8">&nbsp;</hatul><hatul class="font_8">The Juke Joints played festival and club shows in Ireland, Engeland, Latvia, France, Sweden, Norway, Germany, Switserland, Austria, USA and shared stages with the best that blues has to offer: Kim Wilson, Buddy Guy, Walter Trout, Rod Piazza &amp; the Mighty Flyers, The Paladins, The Nighthawks, Bonnie Raitt, Sonny Landreth, Roomful of Blues, George Thorogood, Little Charlie &amp; the Nightcats, Johnny Winter, Alvin Lee, Bernard Allisson, Joe Bonamassa......</hatul><hatul class="font_8">&nbsp;</hatul><hatul class="font_8">The Band:</hatul><hatul class="font_8">Peter Kempe – Lead Vocal/Drums/Mandoline</hatul><h5 style="font-size: 15px;" class="font_5"><span style="font-size:15px;"><span style="font-family: patrick hand, cursive;">Michel Staat – Guitar</span></span></h5><hatul class="font_8">Sonnyboy vd Broek – Harmonica/Vocal/Accordeon</hatul><hatul class="font_8">Derk Korpershoek – Bass/Vocal</hatul><hatul class="font_8">&nbsp;</hatul><hatul class="font_8">www.thejukejoints.com</hatul>
+URL:http://www.stavanger-bluesclub.no/events-2/j93xny8a38
+LOCATION:Påfyll, Stavanger
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-blues-j93x84mo30
+DTSTART:20180424T183000Z
+ORGANIZER:Stavanger Bluesklubb
+DTEND:20180424T213000Z
+SUMMARY:Little by Little
+DESCRIPTION:<hatul class="font_8">Little by Little startet opp i hjembyen Sandnes Rogaland, som en lokal Blues Rock band november 1985. Bandmedlemmene kom fra forskjellige lokale regionale band som en blanding av blues, rock, jazz og pop påvirkninger de alle hadde med seg til bandet.<br><br>Little by Little begynte snart å lage egne sanger. Litt etter litt fikk bandet god respons fra musikk kunngjøringer i avisene og også med musikkbransjen i Norge. Bandet utvidet snart fra lokale spillejobber i Stavanger og Sandnes til spillejobber over hele Norge i over et tiår.<br><br>Little by Little følte at det er fortsatt ting ugjort og spillejobber å gjøre. Den viktigste motivasjonen for å komme tilbake etter en pause, er å ha det gøy og spre litt glede og god musikk.<br><br>Litt etter Litt fant Little by little sin egenartede musikkstil i det enorme Norske Blues/Rock musikk landskapet.<br><br>&nbsp;</hatul>
+URL:http://www.stavanger-bluesclub.no/events-2/j93x84mo30
+LOCATION:Påfyll, Stavanger
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-blues-j93xipds35
+DTSTART:20180206T193000Z
+ORGANIZER:Stavanger Bluesklubb
+DTEND:20180206T223000Z
+SUMMARY:The Cadillac Kings
+DESCRIPTION:<hatul class="font_8">The CKs formed in 2000, around London, from a group of experienced musicians, whose cvs included the James Hunter Band, Otis Grand’s Band, Paul Lamb’s Kingsnakes &amp; Big Joe Louis’ Band. Six months later they released their debut cd ‘Lou Ann’. It was picked up right away by radio stations across the world and earned the band a ’finalist’ status in the 2001 UK best new blues band awards.<br><br>From the very outset The Cadillac Kings became firm favourites on the blues &amp; jump-jive scenes. With stunning musicianship &amp; an exciting stage act, this band knows how to entertain audiences across the board, from arts centres to dance-halls, from intimate clubs to major festivals, the length &amp; breadth of the UK, Europe &amp; Scandinavia.<br><br>The founder member of the band is vocalist &amp; songwriter Mike Thomas, who writes nearly all the band’s material, combining the sounds &amp; styles of ‘40s &amp; ‘50s r ‘n’ b with an unerring 21st century wit. “Mike’s often hilarious lyrics are right up there with Rick Estrin &amp; Louis Jordan” wrote blues journalist Ken Peace in his bluesinthenorthwest blog.<br><br>2004 saw the release of the band’s second CD ‘Highway 17’ on the UK jazz &amp; roots label ‘33’ Records. The music critics of UK newspaper The Times included 'Highway 17', alongside albums by Morrissey, U2, the Scissor Sisters etc, in their list of the top 24 releases of the year, and chose it as best blues CD. Following wide airplay the band were invited to play live sessions for BBC radio, Norwegian TV and Dutch radio.<br><br>Since then the band continue to gig across europe in clubs &amp; at festivals &amp; have opened shows for acts such as Lazy Lester, The Fabulous Thunderbirds, Rod Piazza, Magic Slim, Lil' Ed &amp; His Blues Imperials, Louisiana Red, John Mayall, Larry Garner, Nappy Brown, Little Feat &amp; Delbert McLinton to name but a few!<br><br>Highlights have included the band's debut appearance at London’s Royal Albert Hall playing a special lunchtime concert during the 2010 Proms season, and co-headlining the huge Bliuzo Naktys Festival in Lithuania where the band played to an audience of over 15,000 blues fans.<br><br>Their 2009 release ‘Trouble in Store’ drew rave reviews from both sides of the atlantic including the title of ‘best non-American blues album’ of the year from Canada’s top blues magazine ‘Real Blues’.<br><br>Winter 2012 saw the release of their first official live cd, ‘Gonna Tell Your Momma’ recorded by Rune Halland in Hamar, Norway on Scandinavia’s top mobile set-up. This captures the real fun &amp; excitement of a Cadillac Kings’ show featuring four individual vocalists and the UK’s finest west coast-style guitarist, Mal Barclay. The CD has has unanimously rave reviews in the UK, USA &amp; europe.</hatul><hatul class="font_8">www.cadillackings.co.uk</hatul><hatul class="font_8">&nbsp;</hatul><hatul class="font_8">https://www.youtube.com/watch?v=9DYgAIAepDU</hatul><hatul class="font_8">&nbsp;</hatul><hatul class="font_8">&nbsp;</hatul>
+URL:http://www.stavanger-bluesclub.no/events-2/j93xipds35
+LOCATION:Påfyll, Stavanger
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-blues-j93x3yl826
+DTSTART:20180213T193000Z
+ORGANIZER:Stavanger Bluesklubb
+DTEND:20180213T223000Z
+SUMMARY:Wolf Mail (CAN)
+DESCRIPTION:<hatul class="font_8">&nbsp;</hatul><p class="font_9">Kjent som "The Heavy Weight Champion of the Blues" har Wolf Mail imponert bluespublikum i over 20 år.&nbsp;Født i Montreal, og oppvokst i syd-Frankrike gikk mye av oppveksten med til reiser. Han begynte å spille gitar i en alder av 10 år, inspirert av Elmore James og John Lee Hooker. Senere fikk han gitartimer hos David Goodman og holdt sin første konsert som fjortenåring. Når han var 17 reiste han hjemmefra for å turnere med eget band.</p><p class="font_9">Han ga ut 2 plater på egenhånd tidlig på 90-tallet, før han signerte med ZKS Records hvor han har utgitt ytterlige 6 album.&nbsp;Når det gjelder kjærligheten til musikken, er Wolf Mail en artist som ikke inngår kompromisser. Og det har lønt seg. Gjennom mer enn tjue år med kontinuerlig turnering og en pålitelig leveranse av solide plater, har denne originale gitaristen, sangeren og låtskriveren skaffet seg en hengiven internasjonal tilhengerskare.</p><p class="font_9">42-åringen er nesten like kjent for sine vokalprestasjoner som for gitarferdighetene. Lidenskapen for rå, ektefølt blues – fra Elmore James og John Lee Hooker til Stevie Ray Vaughan, Jimi Hendrix og Albert Collins – kombinert med doser moderne soul, gjør Wolf Mail til en karismatisk og særegen artist.<br>“Oseana Auditorium” er Wolf Mails syvende og nyeste utgivelse – den foreligger både som CD og DVD og er et live-opptak fra Bergen i 2013.</p><p class="font_9">Wolf Mail - vokal/gitar<br>Lukasz Gorczyca&nbsp;- bass<br>Tomek Dominik&nbsp;-&nbsp;trommer</p><hatul class="font_8">&nbsp;</hatul><hatul class="font_8">http://www.wolf-mail.com/</hatul><hatul class="font_8">http://www.facebook.com/wolfmailmusic</hatul><hatul class="font_8"><span style="text-decoration:underline;"><a dataquery="#appbuilder_7CFA711A">Resten av Bio her..</a></span></hatul><hatul class="font_8">&nbsp;</hatul>
+URL:http://www.stavanger-bluesclub.no/events-2/j93x3yl826
+LOCATION:Påfyll, Stavanger
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-blues-j93y3bv944
+DTSTART:20180508T183000Z
+ORGANIZER:Stavanger Bluesklubb
+DTEND:20180508T213000Z
+SUMMARY:Rowdhouse
+DESCRIPTION:<hatul class="font_8">Info kommer</hatul>
+URL:http://www.stavanger-bluesclub.no/events-2/j93y3bv944
+LOCATION:Påfyll, Stavanger
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-blues-j93x97gg31
+DTSTART:20180515T183000Z
+ORGANIZER:Stavanger Bluesklubb
+DTEND:20180515T213000Z
+SUMMARY:Butch Brox Band
+DESCRIPTION:<hatul class="font_8">BUTCH BROX BAND er et blues-rock band fra Stavanger som satser på de av oss som liker den litt mer røffe blues'en. Musikkstilen heller mot den rocka delen av bluesen og henter inspirasjon fra bluesrock legender som Rory Gallagher, Johnny Winter, ZZ Toåp, The Allman Brothers Band m.fl.</hatul><hatul class="font_8">Bandmedlemmene har alle base i Stavangerområdet, og er kjente ansikter fra flere andre band i distriktet som Royal Flush, Barefoot, Full Tilt, PowerCombo m.fl.</hatul><hatul class="font_8">&nbsp;</hatul><hatul class="font_8">Besetning:</hatul><hatul class="font_8">Vegard Brox - Gitar/vokal</hatul><hatul class="font_8">Glenn Junger - Bass</hatul><hatul class="font_8">Tory J Raugstad - Trommer</hatul><hatul class="font_8">Ray Johnson - Tangenter</hatul>
+URL:http://www.stavanger-bluesclub.no/events-2/j93x97gg31
+LOCATION:Påfyll, Stavanger
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-blues-j93y1ghr43
+DTSTART:20180501T183000Z
+ORGANIZER:Stavanger Bluesklubb
+DTEND:20180501T213000Z
+SUMMARY:BB & Blues Sack
+DESCRIPTION:<hatul class="font_8">Info kommer</hatul>
+URL:http://www.stavanger-bluesclub.no/events-2/j93y1ghr43
+LOCATION:Påfyll, Stavanger
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-blues-j93xgtgm34
+DTSTART:20180123T193000Z
+ORGANIZER:Stavanger Bluesklubb
+DTEND:20180123T223000Z
+SUMMARY:Reodor BluesRockers- 23.01.18
+DESCRIPTION:<hatul class="font_8">Reodors &nbsp;Bluesrockers er et band som spiller for å gi publikum god stemning og trøkk &nbsp;fra første låt. Repertoaret består av gode blues- &nbsp;og rocklåter som den interesserte lytter &nbsp;for sjangeren vil sette stor pris på.&nbsp;Vokalist Oddgeir Tengesdals &nbsp;mørke stemme er med å skape den rette og gode &nbsp;bluesstemninga i lokalet. Og sammen med det gode kompet som består av Håkon Nielsen på bassgitar &nbsp;og Kjetil Larsens trommer, kommer også &nbsp;gitarsoloene fra Oddgeir til sin rett.&nbsp;Musikerene i bandet har godt humør som smitter over på publikum og da er det bare å nyte resten.&nbsp;For å si det enkelt så er dette et band du garantert liker om blues og rock ligger ditt hjerte nær.</hatul>
+URL:http://www.stavanger-bluesclub.no/events-2/j93xgtgm34
+LOCATION:Påfyll, Stavanger
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-blues-jbazjp9b44
+DTSTART:20180410T183000Z
+ORGANIZER:Stavanger Bluesklubb
+DTEND:20180410T213000Z
+SUMMARY:Lasse Berheim Band
+DESCRIPTION:<p class="font_9">Lasse Berheim er en av veteranene innen Sandnes sitt rock/blues miljø,<br>han debuterte på plate med bandet Warchild og singelen Hello Lady/ Waiting on a Friend<br>så tidlig som i 1983. Etter denne gikk det noen år før Lasse ga lyd fra seg igjen,da var det med blues bandet<br>Blue Clay som hadde med en vise (Born Under a Bad Sign) på Sandnes cd`en i 1993.Samme år bidro han på<br>albumet “Little White What” til Modesty Blaise med blues rockeren “Boogie Man”</p><p class="font_9">I årene etter har Lasse vært drivkraften i bandet Banden .<br>I 2002 kom endelig det første albumet til Lasse,nemlig “Flagg Ut” der han synger på sin egen Sandnes dialekt.<br>og blander sjangre som rock,blues og reggea i god gammel Nurk Twins/Stavangerensemblet,Smalhans,Reidar Larsen<br>tradisjon.<br>2014 var året da oppfølgeren “Drivande Ved” så dagens lys,der han fortsetter det han begynnte på “Flagg Ut”,<br>kjempebra viser i forskjellige sjangre på dialekt.</p><p class="font_9">Besetnig.</p><p class="font_9">Lasse Berheim,Leif Arne Bredland,Torstein Kyllevik og Øyvind Lende.</p><p class="font_9">www.youtube.com/watch?v=ZhWDkUhrnsc</p>
+URL:http://www.stavanger-bluesclub.no/events-2/jbazjp9b44
+LOCATION:Påfyll, Stavanger
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-blues-j93xkmu336
+DTSTART:20180220T193000Z
+ORGANIZER:Stavanger Bluesklubb
+DTEND:20180220T223000Z
+SUMMARY:Tomas Fianbekken Band
+DESCRIPTION:<hatul class="font_8">Tomas F Band er et heftig bluesrockband som holder til på sør- og sørvestlandet med røtter i roots og dirty blues. Musikerne har bred musikalsk erfaring fra både inn og utland. De presenterer egne låter, samt coverlåter av b.l.a Gary Clark, Doyle Bramhall, Lenny Kravitz og Jimi Hendrix.</hatul><hatul class="font_8">Bandet beskrives som&nbsp;energisk og sjelfullt, med&nbsp;forgreninger&nbsp;dypt ned i både&nbsp;rockens og bluesens røtter.&nbsp;Tomas F spiller så svetten spruter mens gitaren hans formidler hjerteråe toner i blått og til tider sort.</hatul>
+URL:http://www.stavanger-bluesclub.no/events-2/j93xkmu336
+LOCATION:Påfyll, Stavanger
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-blues-j93xmdri37
+DTSTART:20180227T193000Z
+ORGANIZER:Stavanger Bluesklubb
+DTEND:20180227T223000Z
+SUMMARY:Reloaded
+DESCRIPTION:<hatul class="font_8">Reloaded så dagens lys i mai 2012 i forbindelse med vokalist/låtskriver Heidi Blåsmo sin deltagelse i The Voice 2012. Dette satte fart i Heidi sitt ønske om å gå i<br>studio for å få ”tapet” noen av låtene som svirret rundt i hodet. Med signert platekontrakt i Nordic Records, var det bare å gi full gass!<br>Man sier at noen er født med blues og soul i hjertet, og Heidi er så absolutt en av dem. Endelig skulle hun ta steget fullt ut, og lage sin egen plate på sine egne<br>premisser. Som det fyrverkeriet Heidi er passer hennes råe bluesrock stil som hånd i hanske.<br>Heidi har lang fartstid som vokalist. Hun har gjort opptredener sammen med blant annet Øyvind Blunck, Guri Schanke, Madrugada og Hellbillies for å nevne<br>noen. Hun har også utallige opptredener innen storband, kor og lokale bandprosjekter bak seg.<br>Med sitt band, Reloaded, har hun samlet fem dyktige og erfarne musikere med lang fartstid i bransjen. Foruten utallige lokale band og prosjekter har<br>musikerne i Reloaded gitt ut egen musikk, eller i andre band som Veslefrikk, Romantic Noise, Absolutt Gospel, Roots'n Boots, Spoonful of Blues, Englakoret og<br>Jarle Børresen band.<br>Heidi fikk en datter i 2014, så bandet har av natulige årsaker hatt en pause. Nå er hovedbasen for bandet blitt Bluesbyen Notodden, og der er Reloaded i full<br>produksjon av neste album som er planlagt utgitt februar 2018.</hatul><hatul class="font_8"><br>The band -<br>Singer 'n songwriter: Heidi Kvalholm Blåsmo<br>Guitar: Hans Trasti Isaksen<br>Bass: Tony Caddle<br>Organ/Piano: Jarle Børresen<br>Drums: Lars Ove Fjelldahl</hatul>
+URL:http://www.stavanger-bluesclub.no/events-2/j93xmdri37
+LOCATION:Påfyll, Stavanger
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-blues-j93y619t46
+DTSTART:20180529T183000Z
+ORGANIZER:Stavanger Bluesklubb
+DTEND:20180529T213000Z
+SUMMARY:Peter Nande
+DESCRIPTION:<hatul class="font_8">Info kommer</hatul>
+URL:http://www.stavanger-bluesclub.no/events-2/j93y619t46
+LOCATION:Påfyll, Stavanger
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-blues-j93xdww733
+DTSTART:20180130T193000Z
+ORGANIZER:Stavanger Bluesklubb
+DTEND:20180130T223000Z
+SUMMARY:Tidemanns Group
+DESCRIPTION:<hatul class="font_8">Så er Preben tilbake igjen med gjengen i Tidemanns Group.&nbsp; Her blir det garantert masse trøkk og blues med stor humørfaktor.<br>Bandet spiller i hovedsak egenkomponert musikk som er basert på dikt av Hamsun og Obstefelder, men som vanlig vil det nok også vanke noen musikalske overraskelser, og da spesielt fra en viss mister Tom Waits.<br>Bandmedlemmer: •Preben Brun Henriksen, vokal og trompet • Kjetil Hatleskog, gitar • Svein Rosenberg, tangenter • Sigfred Opheim, bass • Arild Netteland, trommer - Glenn Brun Henriksen, saxofon - Dominique Brackeva, trombone.</hatul>
+URL:http://www.stavanger-bluesclub.no/events-2/j93xdww733
+LOCATION:Påfyll, Stavanger
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-blues-jbaze3ia43
+DTSTART:20180320T193000Z
+ORGANIZER:Stavanger Bluesklubb
+DTEND:20180320T223000Z
+SUMMARY:Tiny Thor & The Cool Groove
+DESCRIPTION:<hatul class="font_8">Tiny Thor &amp; The Cool Groove er det muligens litt vrient å sette i en bestemt musikalsk bås – men det finnes uten tvil sterke elementer av funky blues som med stor sjangse bidrar til at du føler sterk trang til å bevege deg til rytmene. Dog noen vil nok påstå å finne elementer av slepen soul, rock og rhythm &amp; blues. Originale komposisjoner signert vokalist og gitarist Thor Oliversen blandet med coverlåter av artister som ligger genremessig nær – f.eks. John Mayer, Oli Brown, Robben Ford, Scott McKeon og Matt Schofield. Hør gjerne på Spotifylisten vår lenger nede til venstre her eller Sneak Peak fra øvingslokalet. Thor Oliversen – vokal/gitar, Egil Myhre – trommer, Halvard Josefsen – bass, Jostein F. Johansen – orgel.</hatul><hatul class="font_8">www.tinythor.com</hatul><hatul class="font_8">https://www.facebook.com/tinythorandthecoolgroove/?fref=ts</hatul>
+URL:http://www.stavanger-bluesclub.no/events-2/jbaze3ia43
+LOCATION:Påfyll, Stavanger
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-blues-jbb072x345
+DTSTART:20180522T183000Z
+ORGANIZER:Stavanger Bluesklubb
+DTEND:20180522T213000Z
+SUMMARY:Jam session
+DESCRIPTION:<p style="font-size: 15px;" class="font_9"><span style="font-size:15px;"><span style="font-family:patrick hand,cursive;">Så var det igjen klar for en av våre populære jamsessions.</span></span></p><p style="font-size: 15px;" class="font_9"><span style="font-family:patrick hand,cursive;"><span style="font-size: 15px;">I dag tar Arne igjen ansvar for at alle våre bluesvenner får mulighet til å vise hva de kan. Forhåpentligvis får vi også stifte bekjentskap med nye spennende artister.</span></span></p><p style="font-size: 15px;" class="font_9"><span style="font-family:patrick hand,cursive;"><span style="font-size: 15px;">De som vil entre scenen denne kvelden, tar gjerne ta med seg eget instrument, alt fra sangstemme, gitar, blåseinstrument, fløyte, munnspill, munnharpe, rytme- og rasleinstrumenter, bass og andre ting. Piano er på plass og klar til bruk.</span></span></p><p style="font-size: 15px;" class="font_9"><span style="font-family:patrick hand,cursive;"><span style="font-size: 15px;">Og kveldens jamvert er selvfølgelig &nbsp;Arne Kolstad som på sitt sedvanlige vis har full kontroll i rekkene.</span></span></p>
+URL:http://www.stavanger-bluesclub.no/events-2/jbb072x345
+LOCATION:Påfyll, Stavanger
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-blues-j93xrts740
+DTSTART:20180327T183000Z
+ORGANIZER:Stavanger Bluesklubb
+DTEND:20180327T213000Z
+SUMMARY:Daniel Eriksen & Stig Sjøstrøm
+DESCRIPTION:<hatul class="font_8">Daniel Eriksen har, gjennom omfattende turnering og knallhardt arbeid, opparbeidet seg et rykte som en av NORGES BESTE slidegitarister. Han har turnert på flere kontinenter, og overbeviser med sin blanding av svingende deltablues og dampende New Orleans-rytmer. Han er sterkt inspirert av gamle blues legender som Blind Willie Johnson og Mississippi Fred McDowell, og har lært direkte fra moderne mestere som avdøde Bob Brozman, og amerikanske John Mooney og Roy Rogers. Eriksen opptrer, i god Mississippi-tradisjon, sammen med sin mangeårige trommeslager Stig Sjøstrøm. Han er et vanvittig FYRVERKERI på trommer og percussion. Etter ti år med tett samarbeid og heftig turnéliste, er duoen blitt utrolig samspilte og skaper et fullt sound som har forbløffet mange.</hatul>
+URL:http://www.stavanger-bluesclub.no/events-2/j93xrts740
+LOCATION:Påfyll, Stavanger
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-blues-j93xwqrr42
+DTSTART:20180417T183000Z
+ORGANIZER:Stavanger Bluesklubb
+DTEND:20180417T213000Z
+SUMMARY:Chris Kramer
+DESCRIPTION:<hatul class="font_8">Chris Kramer is a german blues musician, gifted blues harp player and singer/songwriter from Dortmund, Germany. As a three times winner of the “German Blues Award” (category blues harp 2010, 2012, 2014), his slick harp playing is considered his trademark although Chris also plays guitar and dobro on stage. Chris Kramer’s vinyl record “Chicago Blues” was also honoured “best album” with the “German Blues Award 2014”.</hatul><hatul class="font_8">&nbsp;</hatul><hatul class="font_8">Born in 1970, his first blues harp lessons were taught by his father, leading through the years to a solid career as a professional musician. Chris Kramer played in several bands, but also performed as a solo artist constantly. Nowadays he is regarded as one of the most important blues harp players in Europe, gaining recognition by his boyhood idols like Pinetop Perkins and Willie “Big Eyes” Smith (both of Muddy Waters Band), who recorded with him. The complete list of artists who joined Chris Kramer in the recording studio appears like a “who-is-who” of rock history: Long John Baldry, Bob Stroger, Jack Bruce, Mel Gaynor (Simple Minds), Colin Hodgkinson, Pete York and many others. He assembled Mick Taylor and Chuck Leavell, both “Rolling Stones” in different periods, for the first time on his 2009 album “Unterwegs” (transl. “on the road”), and piano player Chuck Leavell said about Chris, “Oh man, what an amazing harp player!”. “Cream” bass player Jack Bruce called him “Master of the blues harp”. German superstar Peter Maffay (considered as the “german Bruce Springsteen”) booked him for studio jobs and huge stadium tours several times.</hatul><hatul class="font_8">&nbsp;</hatul><hatul class="font_8">Caring for the encouragement of young talents, Chris wrote four educational books about learning blues harp. He is also successful as a harp teacher with tutorial workshops all over Germany. His latest project to promote handmade music is a musical for children and families called “The little harmonica”, trying to awake children’s enthusiasm for the blues and its following musical styles. The story of “The little harmonica” is also published as an audiobook and an 86-pages-storybook, teaching not only about music but also about tolerance, respect and human co-existence.</hatul><hatul class="font_8">&nbsp;</hatul><hatul class="font_8">As an expert for blues music, Chris Kramer is asked and booked by german major TV stations, for example like WDR for a complete one-hour-show called “Planet Wissen” to talk about the blues and his journey to America on his quest for the roots of the blues.</hatul><hatul class="font_8">&nbsp;</hatul><hatul class="font_8">Chris Kramer’s latest project to create a connection between the blues and younger generations is a crossover trio called “Beatbox ‘n’ Blues”. With a beatbox borrowed from hip hop instead of a drumset and performed by german beatbox champion Kevin O Neal, Kramer invented a fresh new sound with his blues harp and the guitar of the young talented string artist Sean Athens. The dedication and innovation of performance of the three artists led to the winning of the “2016 German Blues Challenge” in Eutin (Northern Germany) and the right to participate at the “2017 International Blues Challenge” at Beale Street, Memphis/Tennessee, USA.</hatul><hatul class="font_8">&nbsp;</hatul><hatul class="font_8">Chris Kramer and the blues – they both influenced and changed each other and both are benefitting by leaving their traces on each other…</hatul>
+URL:http://www.stavanger-bluesclub.no/events-2/j93xwqrr42
+LOCATION:Påfyll, Stavanger
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-blues-j93xa71c32
+DTSTART:20180612T183000Z
+ORGANIZER:Stavanger Bluesklubb
+DTEND:20180612T213000Z
+SUMMARY:Madlaveien
+DESCRIPTION:<p class="font_9">Madlaveien er et Stavangerbasert band som har sitt musikalske tyngdepunkt i 70-årenes USA.</p><p class="font_9">Bandet startet i 1979 ,og hadde særlig høy aktivitet i 1982 til 1984 da gruppen gjestet de fleste konsert- og studentlokaler i Sør-Norge . Etter noen års pause fant Madlaveien sammen igjen i 2003 og låter i dag bedre enn noen gang.</p><p class="font_9">Det var i Madlaveien&nbsp;Sigvart Dagsland startet sin karriere. Da vikarierte Sigvart for broren Jon , som er både opprinnelig og nåværende vokalist. Noen sier at Jon er vel så god, og mye mer rocka! Senere har det utviklet seg til et drivende rockeband med full blås.</p><p class="font_9">Disse veteranene &nbsp;byr på drivende musikk av ypperste klasse. Påvirkningen fra band som Chicago og Blood, Sweat &amp; Tears og andre artister i grenselandet mellom rockn roll, soul, rythmn blues og jazz er tydelig, og Madlaveien har evnet å ta opp i seg denne påvirkningen og samtidig gi musikken et personlig uttrykk. Gode vokalprestasjoner, fire groovy messingblåsere og den umisskjennelige gurglende lyden av Hammond B3-orgel har blitt Madlaveiens klareste karakteristika.</p><p class="font_9">Et annet trekk ved Madlaveien er fleksibilitet. Bandet har på samme uke evnet å trekke fulle hus til intimkonsert den ene kvelden, mens dansegulvet kvelden etterpå koker av folk.</p><p class="font_9">&nbsp;</p><p class="font_9">Madlaveien består av:&nbsp;</p><p class="font_9">Jon Dagsland (vokal)<br>Gunnar Tønnessen (gitar)<br>Erik Pedersen (piano/orgel)<br>Tor Inge Øgreid (bass)<br>Arild Netteland (trommer)<br>Inge Kyllingstad (perkusjon)<br>Torstein Plener (trompet)<br>Stein Morten Bjelland (trompet)<br>Terje Knutsen (trombone)<br>Steinar Knutsen (trombone)</p>
+URL:http://www.stavanger-bluesclub.no/events-2/j93xa71c32
+LOCATION:Påfyll, Stavanger
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-blues-j93x59qe27
+DTSTART:20180306T193000Z
+ORGANIZER:Stavanger Bluesklubb
+DTEND:20180306T223000Z
+SUMMARY:Svankevigaa
+DESCRIPTION:<hatul class="font_8">Det swinger i Stavanger øst når gjengen i Svankevigaa drar i gang med heftige riff og tette komplinjer.&nbsp; Bandet spiller tradisjonell blues og rock’n roll basert på materiale fra et stort spekter&nbsp; kjente artister, så her vil en kjenne igjen låter fra så vel John Hiatt og Bob Dylan til våre egne Marius Muller og Reidar Larsen. &nbsp;Musikerne er en fin blanding av godt etablerte aktører i Stavanger og ”gamle travere” med mange forskjellige lokale band "på samvittigheten". God kjemi på scenen og trivsel for vårt publikum, er viktige element for bandets opptredener. Og ingenting setter bedre fart på dette enn et fullt dansegulv.</hatul><hatul class="font_8">&nbsp;</hatul><hatul class="font_8">Besetning:</hatul><hatul class="font_8">Lasse Hetland – vokal</hatul><hatul class="font_8">Arild Skjæran – gitar</hatul><hatul class="font_8">Arve Magnussen – bass</hatul><hatul class="font_8">Stein Erik Risvik – keyboard</hatul><hatul class="font_8">Kurt Magne Nordbø – trommer</hatul><hatul class="font_8">Egil Karlsen – Trombone, diverse perc.</hatul><hatul class="font_8">&nbsp;</hatul><hatul class="font_8">https://www.facebook.com/svankevigaa/</hatul>
+URL:http://www.stavanger-bluesclub.no/events-2/j93x59qe27
+LOCATION:Påfyll, Stavanger
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-blues-j93y739q47
+DTSTART:20180605T183000Z
+ORGANIZER:Stavanger Bluesklubb
+DTEND:20180605T213000Z
+SUMMARY:Winters Blue Groove
+DESCRIPTION:<hatul class="font_8">Info kommer</hatul>
+URL:http://www.stavanger-bluesclub.no/events-2/j93y739q47
+LOCATION:Påfyll, Stavanger
+END:VEVENT
+END:VCALENDAR

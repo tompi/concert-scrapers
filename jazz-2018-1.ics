@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Thomas Haukland//ics.js v1.0//EN
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:stav-jazz-2018-02-03T1800:00.000Z
+DTSTART:20180203T180000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180203T210000Z
+SUMMARY:Silje Nergaard band
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/silje-nergaard-band/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/nb/e/silje_nergaard_med_band">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-02-08T1900:00.000Z
+DTSTART:20180208T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180208T220000Z
+SUMMARY:KNUT REIERSRUD BAND
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/knut-reiersrud-band/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/nb/e/knut_reiersrud_band">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-02-22T1900:00.000Z
+DTSTART:20180222T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180222T220000Z
+SUMMARY:Nils Økland Band
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/nils-okland-band/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/nb/e/nils_oekland_band">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-02-23T1900:00.000Z
+DTSTART:20180223T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180223T220000Z
+SUMMARY:Gurls
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/gurls/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/nb/e/gurls">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-03-01T1900:00.000Z
+DTSTART:20180301T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180301T220000Z
+SUMMARY:MIKE STERN &amp; JAN GUNNAR HOFF QUARTET
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/mike-stern-jan-gunnar-hoff-quartet/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.no/nb/e/stern__hoff_quartet">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-03-08T1900:00.000Z
+DTSTART:20180308T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180308T220000Z
+SUMMARY:Significant Time med Hayden Powell &amp; André Roligheten
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/significant-time-med-hayden-powell-andre-roligheten/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/nb/e/significant_time_med_gjester">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-03-15T1800:00.000Z
+DTSTART:20180315T180000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180315T210000Z
+SUMMARY:Bendik Hofseth Band
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/bendik-hofseth-band/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/nb/e/bendik_hofseth_band">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-03-17T2000:00.000Z
+DTSTART:20180317T200000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180317T230000Z
+SUMMARY:The Real Thing
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/the-real-thing/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/nb/e/the_real_thing">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-04-04T1800:00.000Z
+DTSTART:20180404T180000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180404T210000Z
+SUMMARY:Jensson – Black - Vågan
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/jensson-black-vagan/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/nb/e/jensson__black__vaagan">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-04-12T1800:00.000Z
+DTSTART:20180412T180000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180412T210000Z
+SUMMARY:Omar Hakim &amp; Rachel Z OZ Experience feat. Linley Marthe &amp; Louis Winsberg
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/omar-hakim-rachel-z-oz-experience-feat-linley-marthe-louis-winsberg/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/en/e/omar_hakim__rachel_z_ozexperiencefeat_linley_marthe_og_louis_winsberg">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-04-19T1800:00.000Z
+DTSTART:20180419T180000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180419T210000Z
+SUMMARY:Jazzmeia Horn
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/jazzmeia-horn/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/en/e/jazzmeia_horn">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+END:VCALENDAR

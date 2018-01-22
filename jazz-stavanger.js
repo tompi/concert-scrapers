@@ -8,6 +8,7 @@ const year = (new Date()).getFullYear();
 
 request.get(
   'http://stavangerjazzforum.no/konserter/',
+  // 'http://maijazz.no/konserter/',
   function (error, response, body) {
 	  if (error) {
 	    console.log(error);

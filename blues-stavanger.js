@@ -31,7 +31,7 @@ function mapConcert(concert) {
 		description: concert["wxRchTxt_sTxt4-ut6"].text.replace(/\r?\n|\r/g,''),
 		start: start.toDate(),
 		end: start.add(3, 'hours').toDate(),
-		location: 'Dickens, Stavanger',
+		location: 'Påfyll, Stavanger',
 		url: 'http://www.stavanger-bluesclub.no/events-2/' + concert._iid,
 	  	organizer: 'Stavanger Bluesklubb'
   };
