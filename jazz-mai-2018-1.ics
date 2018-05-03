@@ -20,6 +20,15 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:stav-jazz-2018-05-04T1600:00.000Z
+DTSTART:20180504T160000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180504T190000Z
+SUMMARY:Maijazz Dagspass Fredag 04.mai
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/?post_type=artister&amp;p=2647&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://maijazz.ticketco.events/no/nb/e/maijazz_dagspass_fredag_04mai">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Stavanger
+END:VEVENT
+BEGIN:VEVENT
 UID:stav-jazz-2018-05-04T1700:00.000Z
 DTSTART:20180504T170000Z
 ORGANIZER:Stavanger Jazzforum
@@ -29,13 +38,13 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Stavangeren
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-04T1700:00.000Z
-DTSTART:20180504T170000Z
+UID:stav-jazz-2018-05-04T1730:00.000Z
+DTSTART:20180504T173000Z
 ORGANIZER:Stavanger Jazzforum
-DTEND:20180504T200000Z
-SUMMARY:Maijazz Dagspass Fredag 04.mai
-DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/?post_type=artister&amp;p=2647&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://maijazz.ticketco.events/no/nb/e/maijazz_dagspass_fredag_04mai">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
-LOCATION:Stavanger
+DTEND:20180504T203000Z
+SUMMARY:Frode Gjerstad Kvartett / Pan-Scan Ensemble
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/artister/frode-gjerstad-kvartett-og-pan-scan-ensemble/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://maijazz.ticketco.events/no/nb/e/frijazz_kveld_paa_spor5">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor:5
 END:VEVENT
 BEGIN:VEVENT
 UID:stav-jazz-2018-05-04T1900:00.000Z
@@ -56,22 +65,76 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Folken
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-05T1600:00.000Z
-DTSTART:20180505T160000Z
+UID:stav-jazz-2018-05-04T2100:00.000Z
+DTSTART:20180504T210000Z
 ORGANIZER:Stavanger Jazzforum
-DTEND:20180505T190000Z
-SUMMARY:Gregory Porter &amp; Stavanger Symfoniorkester
-DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/?post_type=artister&amp;p=2460&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://www.billettportalen.no/direkte/?token=ZBixHRJxbOeOf7dFkU4HckpR0oNKVut0wO5UzcC8AnMOXwi0h1WCARr2tnfNENeB3AQyDWNTnOkdSCINLEY9mUSmHQAyhkzUO8m1%2bBKfTET%2bK6Fclt8tFgCFZOiAZEob">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
-LOCATION:Stavanger Konserthus - Fartein Valen salen
+DTEND:20180505T000000Z
+SUMMARY:Maijazz Jam
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                                                </div>                           </div>
+LOCATION:Blyge Harry 
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-05-05T1000:00.000Z
+DTSTART:20180505T100000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180505T130000Z
+SUMMARY:Maijazz Dagspass Lørdag 05.mai
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/artister/dagspass-maijazz/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://maijazz.ticketco.events/no/nb/e/maijazz_dagspass_fredag_04mai">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Stavanger
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-05-05T1200:00.000Z
+DTSTART:20180505T120000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180505T150000Z
+SUMMARY:Sverre Kvam Kvartett Pop Standards med Tone Salomonsen
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/artister/sverre-kvam-kvartett-med-tone-salomonsen/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://maijazz.ticketco.events/no/nb/e/sverre_kvam_kvartett_med_tone_salomonsen">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Arkivet
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-05-05T1400:00.000Z
+DTSTART:20180505T140000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180505T170000Z
+SUMMARY:Pixel
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href=" http://maijazz.no/artister/pixel">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://maijazz.ticketco.events/no/nb/e/pixel_til_maijazz_og_varen_randaberg_kulturscene">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Varen Randaberg Kulturscene
 END:VEVENT
 BEGIN:VEVENT
 UID:stav-jazz-2018-05-05T1600:00.000Z
 DTSTART:20180505T160000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180505T190000Z
-SUMMARY:Maijazz Dagspass Lørdag 05.mai
-DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/artister/dagspass-maijazz/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://maijazz.ticketco.events/no/nb/e/maijazz_dagspass_fredag_04mai">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
-LOCATION:Stavanger
+SUMMARY:Gregory Porter &amp; Stavanger Symfoniorkester - Få Billetter igjen !
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/?post_type=artister&amp;p=2460&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://tix.no/nb/stavanger/buyingflow/tickets/740/">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Stavanger Konserthus - Fartein Valen salen
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-null
+DTSTART:Invalid dateZ
+ORGANIZER:Stavanger Jazzforum
+DTEND:Invalid dateZ
+SUMMARY:Europeisk Jazz Kveld med David Helbock Trio, Kinga Glyk Trio , Armel Dupas Trio
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/artister/europeisk-kveld-pa-spor-5/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://maijazz.ticketco.events/no/nb/e/europeisk_kveld_paa_spor_5">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-05-05T1800:00.000Z
+DTSTART:20180505T180000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180505T210000Z
+SUMMARY:Dominic Miller Trio
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/?post_type=artister&amp;p=2744&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://www.ticketmaster.no/event/dominic-miller-trio-billetter/563167">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Stavangeren
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-05-05T1830:00.000Z
+DTSTART:20180505T183000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180505T213000Z
+SUMMARY:Tortusa/Breistein support Nils Petter Molvær Group
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/artister/torturtusa-breistein/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://maijazz.ticketco.events/nb/e/nils_petter_molvaer_group">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Folken
 END:VEVENT
 BEGIN:VEVENT
 UID:stav-jazz-2018-05-05T2000:00.000Z
@@ -83,6 +146,15 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Folken
 END:VEVENT
 BEGIN:VEVENT
+UID:stav-jazz-2018-05-05T2100:00.000Z
+DTSTART:20180505T210000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180506T000000Z
+SUMMARY:Maijazz Jam
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                                                </div>                           </div>
+LOCATION:Blyge Harry
+END:VEVENT
+BEGIN:VEVENT
 UID:stav-jazz-2018-05-06T1000:00.000Z
 DTSTART:20180506T100000Z
 ORGANIZER:Stavanger Jazzforum
@@ -90,6 +162,33 @@ DTEND:20180506T130000Z
 SUMMARY:Maijazz Dagspass Søndag 06.mai
 DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/artister/dagspass-maijazz/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://maijazz.ticketco.events/no/nb/e/maijazz_dagspass_fredag_04mai">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
 LOCATION:Stavanger
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-05-06T1200:00.000Z
+DTSTART:20180506T120000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180506T150000Z
+SUMMARY:Familie Forestilling med Maria Norseth Garli og Eva Bjerga Haugen/Grethe Bekkevold og Signe Irene Time
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/artister/familie-forestilling-ha-gamle-prestgard/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://maijazz.ticketco.events/no/nb/e/maijazz_familieforestilling_paa_haa_gamle_prestegaard">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Hå Gamle Prestegard
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-05-06T1300:00.000Z
+DTSTART:20180506T130000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180506T160000Z
+SUMMARY:JazzIntro 2018
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/artister/jazzintro-pa-maijazz/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://maijazz.ticketco.events/no/nb/e/jazzintro_2018">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-05-06T1630:00.000Z
+DTSTART:20180506T163000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180506T193000Z
+SUMMARY:Blå Trå Kveld Maijazz 2018
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/artister/bla-tra-kveld-pa-maijazz/?lang=en">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                </div>                           </div>
+LOCATION:Spor:5
 END:VEVENT
 BEGIN:VEVENT
 UID:stav-jazz-2018-05-06T1700:00.000Z
@@ -133,7 +232,7 @@ DTSTART:20180507T170000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180507T200000Z
 SUMMARY:Ralph Towner &amp; Bjergsted Jazzensemble
-DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/artister/ralph-towner-bjergsted-jazzensemble/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://www.billettportalen.no/kjoep/billetter/?token=ZBixHRJxbOdzjNupSJvqRSV60zKIh9HSWaXK6ZsdilYjXIfGuGZvY%2fhpsj7vdcgdsBuH6WCTVqIezRtkv4jF9OtRRZl9nol5Z5vPKj4AK2VqEhp1oNmt5w%3d%3d">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/artister/ralph-towner-bjergsted-jazzensemble/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://tix.no/nb/stavanger/buyingflow/tickets/742/">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
 LOCATION:Stavanger Konserthus Zetlitz salen
 END:VEVENT
 BEGIN:VEVENT
@@ -142,8 +241,17 @@ DTSTART:20180507T170000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180507T200000Z
 SUMMARY:Baker Hansen med John Pål Inderberg
-DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/artister/baker-hansen-med-john-pal-inderberg/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://www.billettportalen.no/kjoep/billetter/?token=Qf6EELZNRMl6yDZpVsmf89flZFXODNitqwAfQ9eHBbMom3tV784eOoTI0wh3vjNoMoSHEd4f99xSlF2eigjrJsKA0y4WYsCd">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/artister/baker-hansen-med-john-pal-inderberg/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://tix.no/nb/sola/buyingflow/tickets/551/">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
 LOCATION:Sola Ruin Kirke 
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-05-07T1900:00.000Z
+DTSTART:20180507T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180507T220000Z
+SUMMARY:Cloroform
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/artister/cloroform/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://maijazz.ticketco.events/no/nb/e/cloroform__moelsterpriskonsert_paa_maijazz">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor:5
 END:VEVENT
 BEGIN:VEVENT
 UID:stav-jazz-2018-05-07T2000:00.000Z
@@ -160,17 +268,35 @@ DTSTART:20180508T170000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180508T200000Z
 SUMMARY:Chick Corea &amp; Trondheim Jazzorkester
-DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/?post_type=artister&amp;p=2466&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://www.billettportalen.no/direkte/?token=ZBixHRJxbOeXY7cN8fFWouJI3IgnFrawLX7fUopPm7qWNPGgcoG9ALddeQaULOWfJC2jjxdoKBm1ICpuJ4%2bl3WYUFrIDHdGBbaN6agWxg4YusCVPsZxgzMRM9rOBFDxe">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/?post_type=artister&amp;p=2466&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://tix.no/nb/stavanger/buyingflow/tickets/743/">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
 LOCATION:Stavanger Konserthus - Zetlitz salen
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-05-08T1900:00.000Z
+DTSTART:20180508T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180508T220000Z
+SUMMARY:Donny McCaslin group
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/?post_type=artister&amp;p=2554&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://maijazz.ticketco.events/no/nb/e/donny_mcclasin__group">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
 END:VEVENT
 BEGIN:VEVENT
 UID:stav-jazz-2018-05-08T2000:00.000Z
 DTSTART:20180508T200000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180508T230000Z
-SUMMARY:Donny McClasin group
-DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/?post_type=artister&amp;p=2554&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://maijazz.ticketco.events/no/nb/e/donny_mcclasin__group">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
-LOCATION:Spor 5
+SUMMARY:Beady Belle "Dedication"
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/artister/beady-belle-dedication/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://maijazz.ticketco.events/no/nb/e/beady__belle_dedication">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Folken
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-05-08T2100:00.000Z
+DTSTART:20180508T210000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180509T000000Z
+SUMMARY:Maijazz Jam
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                                                </div>                           </div>
+LOCATION:Blyge Harry
 END:VEVENT
 BEGIN:VEVENT
 UID:stav-jazz-2018-05-09T1600:00.000Z
@@ -182,11 +308,20 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Stavanger
 END:VEVENT
 BEGIN:VEVENT
+UID:stav-jazz-2018-05-09T1600:00.000Z
+DTSTART:20180509T160000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180509T190000Z
+SUMMARY:Musikklinja ved Stavanger Katedralskole hyller ECM
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/?post_type=artister&amp;p=3238&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://maijazz.ticketco.events/no/nb/e/musikklijen_ved_mdd__stavanger_katedralskole">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Bjergsted Forestillingsal 
+END:VEVENT
+BEGIN:VEVENT
 UID:stav-jazz-2018-05-09T1700:00.000Z
 DTSTART:20180509T170000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180509T200000Z
-SUMMARY:Cécilie McLorin Salvant med Aron Biehl trio
+SUMMARY:Cécile McLorin Salvant med Aaron Diehl trio
 DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/?post_type=artister&amp;p=2616&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://www.ticketmaster.no/event/cecilie-mclorint-salvant-med-aron-diehl-trio-billetter/560331">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
 LOCATION:Stavangeren
 END:VEVENT
@@ -200,6 +335,15 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Folken
 END:VEVENT
 BEGIN:VEVENT
+UID:stav-jazz-null
+DTSTART:Invalid dateZ
+ORGANIZER:Stavanger Jazzforum
+DTEND:Invalid dateZ
+SUMMARY:The Ozone Project
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/artister/the-ozone-project/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://maijazz.ticketco.events/no/nb/e/the_ozone_project">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
 UID:stav-jazz-2018-05-09T2000:00.000Z
 DTSTART:20180509T200000Z
 ORGANIZER:Stavanger Jazzforum
@@ -207,5 +351,14 @@ DTEND:20180509T230000Z
 SUMMARY:Bugge Wesseltoft med Dan Berglund &amp; Magnus Öström
 DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/?post_type=artister&amp;p=2611&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://www.ticketmaster.no/event/bugge-wesseltoft-moter-dan-berglund-og-magnus-ostrom-fra-est-trio-billetter/560359">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
 LOCATION:Stavangeren
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-05-09T2100:00.000Z
+DTSTART:20180509T210000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180510T000000Z
+SUMMARY:Maijazz Jam
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                                                </div>                           </div>
+LOCATION:Blyge Harry
 END:VEVENT
 END:VCALENDAR
