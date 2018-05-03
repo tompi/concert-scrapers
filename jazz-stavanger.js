@@ -5,6 +5,7 @@ const requireText = require('require-text');
 const jsdom = require('jsdom');
 const { JSDOM } = jsdom;
 const year = (new Date()).getFullYear();
+let concertsPerDate = {};
 
 request.get(
   //'http://stavangerjazzforum.no/konserter/',
@@ -14,8 +15,9 @@ request.get(
 	    console.log(error);
 	  } else if (response.statusCode === 200) {
       console.log(ics(parseJazz(body)));
+      //console.log(parseJazz(body));
     } else {
-	  console.log(response.statusCode);
+	  	console.log(response.statusCode);
 	}
 });
 
@@ -33,13 +35,16 @@ function parseJazz(html) {
 function mapConcert(concert) {
 	let datoNode = concert.querySelectorAll(".col-xs-2 span");
   // Første span inneholder dato, andre klokke
-	let dato = parseDate(datoNode[0].innerHTML, datoNode[1].innerHTML);
+	let dato = parseDate(datoNode[0].innerHTML.trim(), datoNode[1].innerHTML.trim().replace(/\./, ":"));
   let tittel = concert.querySelector(".text-wrap").innerHTML;
   let sted = concert.querySelector(".js_venue").innerHTML;
   let info = concert.querySelector(".konsert-listing-btns-column").innerHTML.replace(/\r?\n|\r/g,'');
 
+	let shortDate = dato.format('YYYY-MM-DD');
+  let concertsOnDate = (concertsPerDate[shortDate] || 0) + 1;
+  concertsPerDate[shortDate] = concertsOnDate;
 	return {
-		uid: 'stav-jazz-' + dato.toISOString(),
+		uid: 'stav-jazz-' + shortDate + "-" + concertsOnDate,
 		summary: tittel,
 		description: info.replace('  ', '').replace('\t', '').trim(),
     start: dato.toDate(),
@@ -55,8 +60,9 @@ function parseDate(dateString, timeString) {
   let day = parts[0];
   if (day.length === 1) day = '0' + day;
   let parsedDateString = year + '-' + month + '-' + day + 'T' + timeString;
-  //console.log(parsedDateString);
-	return moment(parsedDateString);
+	var date = moment(parsedDateString);
+// if (!date.isValid()) console.log("################### invalid #####################");
+return date;
 }
 
 function getMonth(month) {

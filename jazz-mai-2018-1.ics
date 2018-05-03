@@ -20,7 +20,7 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-04T1600:00.000Z
+UID:stav-jazz-2018-05-04-1
 DTSTART:20180504T160000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180504T190000Z
@@ -29,7 +29,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Stavanger
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-04T1700:00.000Z
+UID:stav-jazz-2018-05-04-2
 DTSTART:20180504T170000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180504T200000Z
@@ -38,7 +38,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Stavangeren
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-04T1730:00.000Z
+UID:stav-jazz-2018-05-04-3
 DTSTART:20180504T173000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180504T203000Z
@@ -47,7 +47,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Spor:5
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-04T1900:00.000Z
+UID:stav-jazz-2018-05-04-4
 DTSTART:20180504T190000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180504T220000Z
@@ -56,7 +56,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:St. Petri Kirke
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-04T2000:00.000Z
+UID:stav-jazz-2018-05-04-5
 DTSTART:20180504T200000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180504T230000Z
@@ -65,7 +65,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Folken
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-04T2100:00.000Z
+UID:stav-jazz-2018-05-04-6
 DTSTART:20180504T210000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180505T000000Z
@@ -74,7 +74,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Blyge Harry 
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-05T1000:00.000Z
+UID:stav-jazz-2018-05-05-1
 DTSTART:20180505T100000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180505T130000Z
@@ -83,7 +83,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Stavanger
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-05T1200:00.000Z
+UID:stav-jazz-2018-05-05-2
 DTSTART:20180505T120000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180505T150000Z
@@ -92,7 +92,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Arkivet
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-05T1400:00.000Z
+UID:stav-jazz-2018-05-05-3
 DTSTART:20180505T140000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180505T170000Z
@@ -101,7 +101,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Varen Randaberg Kulturscene
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-05T1600:00.000Z
+UID:stav-jazz-2018-05-05-4
 DTSTART:20180505T160000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180505T190000Z
@@ -110,16 +110,16 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Stavanger Konserthus - Fartein Valen salen
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-null
-DTSTART:Invalid dateZ
+UID:stav-jazz-2018-05-05-5
+DTSTART:20180505T160000Z
 ORGANIZER:Stavanger Jazzforum
-DTEND:Invalid dateZ
+DTEND:20180505T190000Z
 SUMMARY:Europeisk Jazz Kveld med David Helbock Trio, Kinga Glyk Trio , Armel Dupas Trio
 DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/artister/europeisk-kveld-pa-spor-5/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://maijazz.ticketco.events/no/nb/e/europeisk_kveld_paa_spor_5">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
 LOCATION:Spor 5
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-05T1800:00.000Z
+UID:stav-jazz-2018-05-05-6
 DTSTART:20180505T180000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180505T210000Z
@@ -128,7 +128,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Stavangeren
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-05T1830:00.000Z
+UID:stav-jazz-2018-05-05-7
 DTSTART:20180505T183000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180505T213000Z
@@ -137,7 +137,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Folken
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-05T2000:00.000Z
+UID:stav-jazz-2018-05-05-8
 DTSTART:20180505T200000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180505T230000Z
@@ -146,7 +146,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Folken
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-05T2100:00.000Z
+UID:stav-jazz-2018-05-05-9
 DTSTART:20180505T210000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180506T000000Z
@@ -155,7 +155,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Blyge Harry
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-06T1000:00.000Z
+UID:stav-jazz-2018-05-06-1
 DTSTART:20180506T100000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180506T130000Z
@@ -164,7 +164,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Stavanger
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-06T1200:00.000Z
+UID:stav-jazz-2018-05-06-2
 DTSTART:20180506T120000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180506T150000Z
@@ -173,7 +173,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Hå Gamle Prestegard
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-06T1300:00.000Z
+UID:stav-jazz-2018-05-06-3
 DTSTART:20180506T130000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180506T160000Z
@@ -182,7 +182,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Spor 5
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-06T1630:00.000Z
+UID:stav-jazz-2018-05-06-4
 DTSTART:20180506T163000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180506T193000Z
@@ -191,7 +191,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Spor:5
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-06T1700:00.000Z
+UID:stav-jazz-2018-05-06-5
 DTSTART:20180506T170000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180506T200000Z
@@ -200,7 +200,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:St.Petri Kirke
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-06T1700:00.000Z
+UID:stav-jazz-2018-05-06-6
 DTSTART:20180506T170000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180506T200000Z
@@ -209,7 +209,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Obrestad Fyr
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-06T1900:00.000Z
+UID:stav-jazz-2018-05-06-7
 DTSTART:20180506T190000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180506T220000Z
@@ -218,7 +218,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Folken
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-07T1600:00.000Z
+UID:stav-jazz-2018-05-07-1
 DTSTART:20180507T160000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180507T190000Z
@@ -227,7 +227,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Stavanger
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-07T1700:00.000Z
+UID:stav-jazz-2018-05-07-2
 DTSTART:20180507T170000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180507T200000Z
@@ -236,7 +236,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Stavanger Konserthus Zetlitz salen
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-07T1700:00.000Z
+UID:stav-jazz-2018-05-07-3
 DTSTART:20180507T170000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180507T200000Z
@@ -245,7 +245,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Sola Ruin Kirke 
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-07T1900:00.000Z
+UID:stav-jazz-2018-05-07-4
 DTSTART:20180507T190000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180507T220000Z
@@ -254,7 +254,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Spor:5
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-07T2000:00.000Z
+UID:stav-jazz-2018-05-07-5
 DTSTART:20180507T200000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180507T230000Z
@@ -263,7 +263,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Folken
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-08T1700:00.000Z
+UID:stav-jazz-2018-05-08-1
 DTSTART:20180508T170000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180508T200000Z
@@ -272,7 +272,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Stavanger Konserthus - Zetlitz salen
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-08T1900:00.000Z
+UID:stav-jazz-2018-05-08-2
 DTSTART:20180508T190000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180508T220000Z
@@ -281,7 +281,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Spor 5
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-08T2000:00.000Z
+UID:stav-jazz-2018-05-08-3
 DTSTART:20180508T200000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180508T230000Z
@@ -290,7 +290,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Folken
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-08T2100:00.000Z
+UID:stav-jazz-2018-05-08-4
 DTSTART:20180508T210000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180509T000000Z
@@ -299,7 +299,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Blyge Harry
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-09T1600:00.000Z
+UID:stav-jazz-2018-05-09-1
 DTSTART:20180509T160000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180509T190000Z
@@ -308,7 +308,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Stavanger
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-09T1600:00.000Z
+UID:stav-jazz-2018-05-09-2
 DTSTART:20180509T160000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180509T190000Z
@@ -317,7 +317,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Bjergsted Forestillingsal 
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-09T1700:00.000Z
+UID:stav-jazz-2018-05-09-3
 DTSTART:20180509T170000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180509T200000Z
@@ -326,7 +326,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Stavangeren
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-09T1800:00.000Z
+UID:stav-jazz-2018-05-09-4
 DTSTART:20180509T180000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180509T210000Z
@@ -335,16 +335,16 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Folken
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-null
-DTSTART:Invalid dateZ
+UID:stav-jazz-2018-05-09-5
+DTSTART:20180509T203000Z
 ORGANIZER:Stavanger Jazzforum
-DTEND:Invalid dateZ
+DTEND:20180509T233000Z
 SUMMARY:The Ozone Project
 DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://maijazz.no/artister/the-ozone-project/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://maijazz.ticketco.events/no/nb/e/the_ozone_project">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
 LOCATION:Spor 5
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-09T2000:00.000Z
+UID:stav-jazz-2018-05-09-6
 DTSTART:20180509T200000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180509T230000Z
@@ -353,7 +353,7 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Stavangeren
 END:VEVENT
 BEGIN:VEVENT
-UID:stav-jazz-2018-05-09T2100:00.000Z
+UID:stav-jazz-2018-05-09-7
 DTSTART:20180509T210000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20180510T000000Z
