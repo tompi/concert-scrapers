@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Thomas Haukland//ics.js v1.0//EN
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:stav-jazz-2018-09-13-1
+DTSTART:20180913T180000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180913T210000Z
+SUMMARY:Solveig Slettahjell
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/solveig-slettahjell/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/nb/e/solveig_slettahjell">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-09-21-1
+DTSTART:20180921T180000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180921T210000Z
+SUMMARY:Tord Gustavsen trio
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/tord-gustavsen-trio/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fstavangerjazzforum.ticketco.events%2Fno%2Fnb%2Fe%2Ftord_gustavsen_trio&amp;h=ATPg4pkU90ulmO81qADik2LbAPvQ8iT1kVYOgD48Cx8z2b0u8v8L64cQf3m2r9uJW-5aMT_UXmgcB1zkdWKI98l5nIi3ybVbV3Du4pwSebvEygSj948Mvwr9">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-09-27-1
+DTSTART:20180927T180000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20180927T210000Z
+SUMMARY:Simen Kiil Halvorsen – Scripted Conversations
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/simen-kiil-halvorsen-scripted-conversations/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/nb/e/simen_kiil_halvorsen__scripted_conversations">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-10-05-1
+DTSTART:20181005T180000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20181005T210000Z
+SUMMARY:Gard Nilssens Acoustic Unity
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/gard-nilssens-acoustic-unity/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/en/e/gard_nilssens_acoustic_unity">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-10-18-1
+DTSTART:20181018T180000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20181018T210000Z
+SUMMARY:Yellowjackets feat. Luciana Souza
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/yellowjackets-feat-luciana-souza/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/en/e/yellowjackets_feat_luciana_souza">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-10-31-1
+DTSTART:20181031T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20181031T220000Z
+SUMMARY:Ola&nbsp;Kvernberg STEAMDOME
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/ola-kvernberg-steamdome/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/en/e/ola_kvernbergs_steamdome">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Folken
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-12-20-1
+DTSTART:20181220T183000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20181220T213000Z
+SUMMARY:Bugge Wesseltoft "It's snowing on my piano"
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/bugge-wesseltoft-its-snowing-on-my-piano-2/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://www.stavanger-konserthus.no/event/bugge-wesseltoft-its-snowing-on-my-piano/">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Stavanger konserthus
+END:VEVENT
+END:VCALENDAR
