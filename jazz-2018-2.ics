@@ -56,12 +56,39 @@ DESCRIPTION:<div class="row">                              <div class="col-md-12
 LOCATION:Spor 5
 END:VEVENT
 BEGIN:VEVENT
+UID:stav-jazz-2018-10-10-1
+DTSTART:20181010T180000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20181010T210000Z
+SUMMARY:Blå:Trå med Kristian Enkerud prosjekt
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                                                </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
 UID:stav-jazz-2018-10-18-1
 DTSTART:20181018T180000Z
 ORGANIZER:Stavanger Jazzforum
 DTEND:20181018T210000Z
 SUMMARY:Yellowjackets feat. Luciana Souza
 DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/yellowjackets-feat-luciana-souza/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/en/e/yellowjackets_feat_luciana_souza">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-10-24-1
+DTSTART:20181024T180000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20181024T210000Z
+SUMMARY:Blå:Trå konsert med Erland Dahlen
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                                                </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-10-25-1
+DTSTART:20181025T180000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20181025T210000Z
+SUMMARY:Sinikka Langeland - Trygve Seim - Markku Ounaskari
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/sinikka-langeland-trygve-seim-markku-ounaskari/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/nb/e/sinikka_langeland__trygve_seim__markku_ounaskari">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
 LOCATION:Spor 5
 END:VEVENT
 BEGIN:VEVENT
@@ -72,6 +99,60 @@ DTEND:20181031T220000Z
 SUMMARY:Ola&nbsp;Kvernberg STEAMDOME
 DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/ola-kvernberg-steamdome/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/en/e/ola_kvernbergs_steamdome">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
 LOCATION:Folken
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-11-07-1
+DTSTART:20181107T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20181107T220000Z
+SUMMARY:Blå:Trå konsert med Anja Lauvdal &amp; Heida K. Johannesdottir
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                                                </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-11-10-1
+DTSTART:20181110T133000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20181110T163000Z
+SUMMARY:Bokbad med Anne Grosvold &amp; Ketil Bjørnstad
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/bokbad-med-anne-grosvold-ketil-bjornstad/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/nb/e/bokbad_med_anne_grosvold__ketil_bjoernstad__nittitallet">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-11-10-2
+DTSTART:20181110T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20181110T220000Z
+SUMMARY:Releasekonsert Eva Bjerga Haugen &amp; Ketil Bjørnstad
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/releasekonsert-eva-bjerga-haugen-ketil-bjornstad/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/nb/e/releasekonsert_med_eva_bjerga_haugen__ketil_bjoernstad">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-11-24-1
+DTSTART:20181124T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20181124T220000Z
+SUMMARY:Omar Sosa &amp; Yilian Cañizares - Aguas
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/omar-sosa-yilian-canizares-aguas/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/en/e/omar_sosa__yilian_caizares__aguas">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-11-29-1
+DTSTART:20181129T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20181129T220000Z
+SUMMARY:Artist in Residence: Chris Potter med Bjergsted jazzensemble
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/artist-in-residence-chris-potter-med-bjergsted-jazzensemble/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/en/e/chris_potter_med_bjergsted_jazzensemble">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2018-12-08-1
+DTSTART:20181208T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20181208T220000Z
+SUMMARY:Julekonsert med Bjergsted jazzensemble &amp; Signe Irene Time
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/julekonsert-med-bjergsted-jazzensemble-signe-irene-time/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/nb/e/julekonsert__bjergsted_jazzensemble_med_signe_irene_time">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
 END:VEVENT
 BEGIN:VEVENT
 UID:stav-jazz-2018-12-20-1
