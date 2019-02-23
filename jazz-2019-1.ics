@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Thomas Haukland//ics.js v1.0//EN
+BEGIN:VTIMEZONE
+TZID:Europe/Oslo
+X-LIC-LOCATION:Europe/Oslo
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:stav-jazz-2019-02-28-1
+DTSTART:20190228T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20190228T220000Z
+SUMMARY:Hildo
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/?post_type=artister&amp;p=1989&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/nb/e/hildo ">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2019-03-09-1
+DTSTART:20190309T200000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20190309T230000Z
+SUMMARY:Hedvig Mollestad trio
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/hedvig-mollestad-trio/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/en/e/hedvig_mollestad_trio">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2019-03-13-1
+DTSTART:20190313T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20190313T220000Z
+SUMMARY:Shannon Mowday (Blå:Trå)
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/shannon-mowday-blatra/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2019-03-16-1
+DTSTART:20190316T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20190316T220000Z
+SUMMARY:Espen Berg trio
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/espen-berg-trio/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/nb/e/espen_berg_trio">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2019-03-20-1
+DTSTART:20190320T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20190320T220000Z
+SUMMARY:Shylock (Blå:Trå)
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/shylock-blatra/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2019-03-26-1
+DTSTART:20190326T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20190326T220000Z
+SUMMARY:Shaun Martin trio
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/shaun-martin-trio/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/nb/e/shaun_martin_trio">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2019-03-28-1
+DTSTART:20190328T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20190328T220000Z
+SUMMARY:Julian Lage trio
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/?post_type=artister&amp;p=1967&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/nb/e/julian_lage_trio">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2019-04-03-1
+DTSTART:20190403T180000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20190403T210000Z
+SUMMARY:Links (Blå:Trå)
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/links-blatra/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2019-04-05-1
+DTSTART:20190405T180000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20190405T210000Z
+SUMMARY:Jazz i Sikte
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/artister/jazz-i-sikte-3/">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/nb/e/jazz_i_sikte_i_stavanger">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2019-04-10-1
+DTSTART:20190410T180000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20190410T210000Z
+SUMMARY:Trond Kallevåg Hansen ensemble - Bedehus &amp; Hawaii
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/?post_type=artister&amp;p=2035&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/en/e/trond_kallevaag_hansen_ensemble__bedehus_og_hawaii">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+BEGIN:VEVENT
+UID:stav-jazz-2019-04-11-1
+DTSTART:20190411T190000Z
+ORGANIZER:Stavanger Jazzforum
+DTEND:20190411T220000Z
+SUMMARY:THE END
+DESCRIPTION:<div class="row">                              <div class="col-md-12">                                                                     <a href="http://stavangerjazzforum.no/?post_type=artister&amp;p=2004&amp;preview=true">                                       <button class="btn-stja">Les mer</button>                                    </a>                                                                                                      <a href="https://stavangerjazzforum.ticketco.events/no/nb/e/the_end">                                       <button class="btn-stja pull-right">                                          <span class="hidden-xxs">Kjøp billett</span>                                          <span class="visible-xxs">Billett</span>                                       </button>                                    </a>                                                               </div>                           </div>
+LOCATION:Spor 5
+END:VEVENT
+END:VCALENDAR
